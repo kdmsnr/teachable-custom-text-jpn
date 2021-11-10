@@ -1,4 +1,4 @@
-# teachable-custom-test-jpn
+# teachable-custom-text-jpn
 
 ## 概要
 オンラインスクール/Eラーニングシステムを構築できる「Teachable(ティーチャブル)」のボタン、ナビゲーションリンク、通知などのテキストを日本語化するプロジェクトです。
