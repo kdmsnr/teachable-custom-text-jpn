@@ -6,7 +6,7 @@
 * 公式「[Teachable, Inc.(ティーチャブル)](https://teachable.com/)」
 
 ## 使用方法
-0. 「[日本語化テンプレート（CSV形式ファイル）]()」をダウンロードする。
+* 「[日本語化テンプレート（CSV形式ファイル）](https://raw.githubusercontent.com/vavenger/teachable-custom-text-jpn/main/teachable_custom-text_jpn.csv)」をダウンロードする。
 
 1. 自身のTeachable 講座へ [ログイン](https://support.teachable.com/hc/en-us/articles/219852747-Logging-Into-Your-Teachable-School) する。
 2. 管理サイドバーより [サイト](https://support.teachable.com/hc/en-us/articles/223117527-Site) を選択する。
