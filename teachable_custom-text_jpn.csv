@@ -1,0 +1,77 @@
+﻿Section,KEY,DEFAULT ,JPN
+Header,admin,Admin,管理者
+Header,sign_in,Login,ログイン
+Header,sign_up,Sign Up,登録する
+Header,log_out,Log Out,ログアウト
+Header,more,More,詳細を見る
+Footer,copyright,&copy;,&copy;
+Footer,contact_us,Contact Us,お問い合わせ
+Card Decline Reasons,approve_with_id,The payment cannot be authorized.,支払いを承認できません。
+Card Decline Reasons,card_not_supported,This card does not support this type of purchase. Please check with your card provider.,サポートされていないカードです。
+Card Decline Reasons,card_velocity_exceeded,This card has exceeded its balance or credit limit. Please try another card.,カードで利用可能な残高またはクレジット限度を超えました。
+Card Decline Reasons,currency_not_supported,This card does not support the specified currency. Please try another card.,カードは指定された通貨をサポートしていません。
+Card Decline Reasons,duplicate_transaction,"An identical transaction was submitted very recently. Please try again later, or try another card.",ごく最近、同じ内容の取引が行われました。後日、再度お試しいただくか、別のカードをお試しください。
+Card Decline Reasons,expired_card,This card has expired. Please try again with a different card.,カードは期限切れです。
+Card Decline Reasons,fraudulent,Card declined. Please contact your card provider.,Stripeが不正である疑いがあると判断したため、支払いは拒否されました。
+Card Decline Reasons,incorrect_number,Invalid card information. Please try again.,カード番号が正しくありません。
+Card Decline Reasons,incorrect_cvc,Invalid card information. Please try again.,CVC番号が正しくありません。
+Card Decline Reasons,incorrect_pin,Invalid card information. Please try again.,入力されたPINが正しくありません。
+Card Decline Reasons,incorrect_zip,Invalid card information. Please try again.,郵便番号が正しくありません。
+Card Decline Reasons,insufficient_funds,The card has insufficient funds.,購入に必要な残高が不足しています。
+Card Decline Reasons,invalid_account,"This card, or connected account, is invalid.",カード、またはカードを設定しているアカウントが無効です。
+Card Decline Reasons,invalid_amount,Invalid payment amount.,支払金額が無効か、限度額を超えています。
+Card Decline Reasons,invalid_cvc,Invalid card information. Please try again.,CVC番号が正しくありません。
+Card Decline Reasons,invalid_expiry_year,Invalid card information. Please try again.,有効期限が無効です。
+Card Decline Reasons,invalid_number,Invalid card information. Please try again.,カード番号が正しくありません。
+Card Decline Reasons,invalid_pin,Invalid card information. Please try again.,入力されたPINが正しくありません。
+Card Decline Reasons,issuer_not_available,Unable to reach the card provider. Please contact your card provider if the issue persists.,カード会社へ連絡がつかなったため、支払いを承認できませんでした。
+Card Decline Reasons,lost_card,Card declined. Please contact your card provider.,カードが紛失したと報告されたため、支払いが拒否されました。
+Card Decline Reasons,merchant_blacklist,This card has been blocked by the seller.,Stripeユーザーのブラックリストと一致するため、支払いが拒否されました。
+Card Decline Reasons,new_account_information_available,"This card, or connected account, is invalid.",カード、またはカードが接続されているアカウントが無効です。
+Card Decline Reasons,not_permitted,The payment is not permitted.,支払いは許可されていません。
+Card Decline Reasons,pickup_card,Card declined. Please contact your card provider.,この支払いにこのカードを使用することはできません（紛失または盗難にあったと報告されている可能性があります）。
+Card Decline Reasons,pin_try_exceeded,The allowed number of PIN attempts has been reached.,許可されたPINの試行回数に達しました。
+Card Decline Reasons,processing_error,An error occurred while processing this card.,原因不明の理由により、カード会社が支払いを処理できませんでした。
+Card Decline Reasons,reenter_transaction,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,restricted_card,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,testmode_decline,Stripe test cards cannot be used for purchases.,ストライプテストカードはお買い物にはご利用いただけません。
+Card Decline Reasons,withdrawal_count_limit_exceeded,This card has reached its credit limit.,このカードは利用限度額に達しています。
+Card Decline Reasons,stolen_card,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,call_issuer,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,do_not_honor,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,do_not_try_again,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,generic_decline,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,no_action_taken,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,revocation_of_all_authorizations,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,revocation_of_authorization,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,security_violation,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,service_not_allowed,The card has been declined for an unknown reason.,原因不明の理由により、カード会社が支払いを処理できませんでした。
+Card Decline Reasons,stop_payment_order,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,transaction_not_allowed,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,try_again_later,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
+Sessions,signed_in,Signed in successfully.,サインインしました。
+Sessions,signed_out,Signed out successfully.,ログアウトしました。
+Sessions,already_signed_out,Signed out successfully.,ログアウトしました。
+Sessions,locked,You've exceeded the number of unsuccessful login attempts. Please check your email to unlock your account.,ログイン試行の回数が上限を超えました。メールを確認して、アカウントのロックを解除してください。
+Sessions,unrecognized_device_title,New device detected,このデバイスを認識できません。
+Sessions,new_device_sign_in,"To verify it’s you, enter the code from the email we’ve just sent to you.",ご本人であることを確認するために、送信メールに記載されているコードを入力してください。
+Sessions,confirm_device_instructions_notice,Confirm this device by entering the code in the email we sent you.,送信されたメールのコードを入力して、このデバイスを確認します。
+Sessions,resend_device_confirmation_email_link,Resend Code,もう一度送信するにはここをクリックしてください。
+Sessions,confirmation_code_label,Confirmation code,確認コード
+Sessions,submit_confirmation_code,Next,Next
+Quiz,Quiz,Quiz,クイズ
+Quiz,back,Back,戻る
+Quiz,check,Check,採点する
+Quiz,continue,Continue,続ける
+Quiz,you_scored,You scored,スコア
+Quiz,retake_quiz,Retake Quiz,クイズの再挑戦
+Quiz,select_an_answer,Select an answer.,答えを選ぶ
+Quiz,retake_retry,You need a score of at least %{minimumQuizScore}% to continue - you may retake this quiz %{retakes} more time(s).,続行するには最低 %{minimumQuizScore}% のスコアが必要です - このクイズは %{retakes} 回以上再受験できます。
+Quiz,retake_request,You need a score of at least %{minimumQuizScore}% to continue - a request has been sent to the school owner to reset your score. You will be notified if the school owner allows you to retake this quiz.,続行するには最低 %{minimumQuizScore}% のスコアが必要です - あなたのスコアをリセットするリクエストが講座のオーナーへ送信されました。講座のオーナーがあなたにこのクイズの再受験を許可した場合、あなたへ通知されます。
+Contact,success_message,Your message has been successfully sent to the school owner(s).,あなたのメッセージは、講座のオーナーに送信されました。
+Contact,failure_message,"Unable to send message, please try again.",メッセージを送信できませんでした、もう一度試してください。
+Contact,unconfirmed_email_message,You need to confirm your email address before using this functionality.,この機能を利用するには、メールアドレスの確認が必要です。
+Blog,about,ABOUT,ABOUT
+Blog,read_more,READ MORE,もっと読む
+Product Collection,no_products,This bundle is not available for purchase.,このバンドルは購入することはできません。
+Product Collection,contents,Bundle contents,バンドルコンテンツ
