@@ -6,6 +6,162 @@ Header,log_out,Log Out,ログアウト
 Header,more,More,詳細を見る
 Footer,copyright,&copy;,&copy;
 Footer,contact_us,Contact Us,お問い合わせ
+Checkout,apply,Apply,適用する
+Checkout,invalid_coupon,Invalid Coupon,無効なクーポンです
+Checkout,reset,Reset,リセット
+Checkout,select_course,Select Course,コースを選択
+Checkout,tax_applied,The transaction total has been updated to reflect added tax based on your shipping country. Please review the new total and confirm your payment.,取引合計は、請求先の国に基づく追加税を反映するように更新されました。新しい合計を確認して、支払いを確認してください。
+Checkout,complete_purchase,Complete Purchase,購入を完了する
+Checkout,verify,Verify,確認する
+Checkout,continue,Continue,続ける
+Checkout,buy_now,Buy Now,今すぐ受講する
+Checkout,subscribe,Subscribe,申し込む
+Checkout,place_order,Place Order,注文する
+Checkout,get_it_for_free,Get it for free,無料で入手
+Checkout,subscribe_for_free,Subscribe for free,無料で購読
+Checkout,review_your_order,Order Summary,注文内容を確認する
+Checkout,enter_payment_information,Payment Information,支払い情報を入力する
+Checkout,confirm_payment_information,Confirm Payment Information,お支払い情報の確認
+Checkout,payment_method,Payment Method,支払い方法
+Checkout,change,Change,変更する
+Checkout,cc_statement_name,This transaction will appear on your statement as,この取引はあなたの明細書に次のように表示されます。
+Checkout,credit_card,Credit Card,クレジットカード
+Checkout,credit_card_aria_label,Click to select Credit Card payment method,クレジットカード決済を選択してください。
+Checkout,paypal,PayPal,PayPal
+Checkout,paypal_aria_label,Click to select Paypal payment method,Paypal決済を選択してください。
+Checkout,paypal_tax_disclaimer,"Where applicable, the final sales tax may be added after you complete the transaction.",該当する場合は、取引完了後に消費税が追加されることがあります。
+Checkout,mobile_pay,Mobile Pay,Apple Pay®またはGoogle Pay™
+Checkout,mobile_pay_aria_label,Click to select Mobile Pay payment method,Apple Pay®またはGoogle Pay™を選択してください。
+Checkout,add_new_card,Add a new Credit Card,新しいクレジットカードを追加
+Checkout,use_existing_card,Use existing Credit Card,既存のクレジットカードを使用
+Checkout,checkout_with_paypal,Checkout with,チェックアウトする
+Checkout,card_ends_in,The card you have on file ends in,お持ちのカードの末尾
+Checkout,use_another_card,Use another card,他のクレジットカードを使用
+Checkout,use_card_ending_in,I'd like to use the card ending in,次のもので終わるカードを使いたい
+Checkout,success_message,You've been enrolled!,すでに受講済みです
+Checkout,error_message,"Sorry, there was an error completing your purchase -- please try again.",申し訳ありません。購入手続き中にエラーが発生しました。もう一度お試しください。
+Checkout,tax,Tax Rate,税率
+Checkout,tax_detailed,Est. Tax - %{percent} (%{country_name}),Est. 税金 - %{percent} (%{country_name})
+Checkout,coupon_discount,Coupon Discount,クーポン割引
+Checkout,enter_coupon_code,Coupon code,クーポンコード
+Checkout,vat_number_label,Tax ID Number,税務申告書番号
+Checkout,vat_number_tooltip,Please ensure that your Tax ID is formatted correctly for your country or province.,税務申告書番号があなたの国または地域で正しくフォーマットされていることを確認してください。
+Checkout,vat_applied_label,Tax number applied,適用される税務申告書番号
+Checkout,vat_applied_tooltip,The estimated tax is added to the order summary after you provide a delivery address. The listed tax on checkout is only an estimate. Your receipt will contain the final tax amount.,推定消費税は、お客様が配送先住所を入力した後、注文概要に追加されます。チェックアウト時に表示される税金はあくまでも概算です。領収書には最終的な税額が記載されます。
+Checkout,vat_removed,Your Tax ID Number has been applied to this purchase.,あなたの税務申告書番号がこの購入に適用されました。
+Checkout,add_coupon,Add Coupon Code,クーポンコードを追加
+Checkout,remove_coupon,remove,クーポンを削除
+Checkout,expired_invalid_coupon_entered,"The coupon code you entered is expired or invalid, but the course is still available!",入力したクーポンコードは有効期限が切れているか無効ですが、コースはまだ受講できます。
+Checkout,redeem_coupon,Redeem Coupon,クーポンを利用
+Checkout,total,Total,合計
+Checkout,billed_today,Billed Today,本日のお支払金額
+Checkout,next_billing_date,Next billing date:,次回決済日:
+Checkout,subscription_cadence_monthly,monthly,毎月
+Checkout,subscription_cadence_quarterly,quarterly,四半期毎
+Checkout,subscription_cadence_semiannually,semi-annual,半年ごと
+Checkout,subscription_cadence_yearly,yearly,毎年
+Checkout,subscription_cadence_weekly,weekly,毎週
+Checkout,subscription_cadence_biweekly,biweekly,隔週
+Checkout,subscription_purchase_disclaimer,"By purchasing this plan, you agree that you are purchasing a subscription of %{price} that is charged on a recurring %{subscription_cadence} basis, %{after_your_free_trial} until you cancel.",このプランを購入することで、お客様は、解約するまで %{subscription_cadence} ベースで定期的に課金される %{after_your_free_trial} のサブスクリプションを購入することに同意するものとします。
+Checkout,subscription_purchase_disclaimer_with_bump,"By executing this order, you agree that you are purchasing two subscriptions, %{price}, that are charged on a %{subscription_cadence} recurring basis, %{after_your_free_trial} until you cancel. You will be charged in a single transaction today though you will receive receipts for each product. On a go-forward basis, each product will be billed separately.",
+Checkout,plus_any_applicable_tax,(plus any applicable tax),(別途消費税がかかります)
+Checkout,after_your_free_trial,"after your free trial,",無料トライアルの後
+Checkout,steps_select_a_course,Select a course,コースを選ぶ
+Checkout,steps_create_account,Create account,アカウントを作成する
+Checkout,steps_login,Login,ログイン
+Checkout,steps_checkout,Payment,支払い
+Checkout,invalid_vat_id,Invalid Tax Number,不正なTAX Number
+Checkout,incorrect_number,The card number is incorrect.,カード番号が正しくありません。
+Checkout,invalid_number,The card number is invalid.,カード番号が無効です。
+Checkout,card_declined,The card was declined.,このカードは有効期限切れです。
+Checkout,invalid_expiry_month,The card's expiration month is invalid.,カードの有効期限月が無効です。
+Checkout,invalid_expiry_year,The card's expiration year is invalid.,カードの有効期限年が無効です。
+Checkout,invalid_cvc,The card's security code is invalid.,このカードのセキュリティコードが無効です。
+Checkout,expired_card,The card has expired.,カードは有効期限切れです。
+Checkout,incorrect_cvc,The card's security code is incorrect.,カードのセキュリティコードが無効です。
+Checkout,incorrect_postal,The card's postal code failed validation.,カードの郵便番号の検証に失敗しました。
+Checkout,incorrect_zip,The card's ZIP code failed validation.,カードの郵便番号の検証に失敗しました。
+Checkout,invalid_request_error,The card number is not a valid credit card number.,カード番号が有効なクレジットカード番号ではありません。
+Checkout,missing,There is no card on a customer that is being charged.,請求されている顧客にカードがありません。
+Checkout,processing_error,An error occurred while processing the payment.,支払いの過程で問題が発生しました。
+Checkout,fedora_server_error,"Undergoing maintenance, purchasing temporarily unavailable, please try again later. You have not been charged.",メンテナンス中で一時的に購入できません。しばらくしてからもう一度お試しください。まだ請求はされていません。
+Checkout,multiple_currency_error,"We are very sorry, but at this time we can only support subscriptions in one currency per customer, and you already have a subscription in a different currency.",申し訳ありません。現時点では１顧客につき１つの通貨での登録しかサポートしておりません。既に別の通貨で登録されています。
+Checkout,already_purchased_error,You have already purchased this product.,この商品は既に購入されています。
+Checkout,network_error,A network error prevented this action from being completed. Please try again.,ネットワークエラーにより、この操作を完了できませんでした。もう一度やり直してください。
+Checkout,business_name,Business name,会社名
+Checkout,add_business_details,Add business details,Add business details
+Checkout,add_business_name,Add business name,会社名を追加する（任意）
+Checkout,billing_address,Billing Address,住所
+Checkout,delivery_address,Delivery Address,配送先住所
+Checkout,delivery_address_tooltip,Delivery address is required to calculate taxes. We may also use this to send any physical materials related to the purchase.,お届け先は、税金の計算に必要です。また、ご購入いただいた商品に関連する資料をお送りする際にも使用することがあります。
+Checkout,city,City,市区町村
+Checkout,state,State,State
+Checkout,state_province_or_region,"State, Province, or Region",都道府県を追加
+Checkout,add_state_province_or_region,"Add State, Province, or Region",都道府県
+Checkout,country,Country,国
+Checkout,street_address,Street Address,番地(英数字のみ)
+Checkout,street_address_2,Street Address Line 2,建物名(ローマ字、英数字)
+Checkout,add_street_address_2,Add address line 2,建物名などを入力(英数字のみ)
+Checkout,street_address_2_placeholder,apt/floor/suite/bldg,アパート名/部屋番号/建物名
+Checkout,postal_code,Postal Code,郵便番号
+Checkout,zip_code,ZIP Code,郵便番号
+Checkout,delivery_same_as_billing,Delivery address same as billing,配送先の住所は同じです
+Checkout,add_card,Add Card,カードを追加する
+Checkout,verify_card,Verify Card,カードを確認する
+Checkout,verifying_card,Verifying Card...,カードを確認中…
+Checkout,confirm_payment,Confirm Payment,支払いを確認する
+Checkout,verified_card,Verified card ending in,確認済みのカードで終わる
+Checkout,name_on_card_required,Name on card is required,カードの名前は必須です。
+Checkout,no_country_selected,Please select your billing country,国を選択してください。
+Checkout,country_select_prompt,Select your billing country,請求先の国を選択
+Checkout,tax_country_mismatch,We could not establish a correct country for tax purposes. Please try again.,税務上、正しい国を設定できませんでした。もう一度やり直して下さい。
+Checkout,security_info_heading,Your payment is secure,この支払いは全て暗号化されます
+Checkout,security_info_description,This is a secure 128-bit SSL encrypted payment,全ての支払いは暗号化され、安全な128ビットSSL暗号化技術によって処理されます
+Checkout,required_fields_description,required,必須
+Checkout,optional_fields_description,optional,任意
+Checkout,mobile_pay_authorized_message,Almost done! Complete your order by clicking the button below.,ほぼ完了しました。下記のボタンをクリックして注文を完了して下さい。
+Checkout,email_error_default,The email you entered is invalid.,入力されたメールアドレスは無効です
+Checkout,email_error_misspelled_gmail,"Did you mean ""gmail""?",gmailになっていますか？
+Checkout,email_error_misspelled_com,"Did you mean "".com""?",.comになっていますか？
+Checkout,email_error_no_tld,"Did you forget something? Most email addresses have a ""."", like in "".com"".",何かお忘れではありませんか？ほとんどのメールアドレスには「.com」のように「.」が付きます。
+Checkout,email_error_dismiss,Dismiss,やめる
+Checkout,your_order_id,Your order ID:,あなたの注文 ID:
+Checkout,receive_confirmation_at,You will shortly receive an email confirmation at,すぐに確認メールが届きます。
+Checkout,password_header,One last step...,最後のステップ…
+Checkout,password_instructions,Please complete your account information to access %{course_name} in the future.,今後%{course_name}にアクセスするには、アカウント情報を入力してください。
+Checkout,password_submit,Create Account,アカウントを作成する
+Checkout,confirm_location,Confirm Your Billing Location,請求先を確認して下さい
+Checkout,account_information,Contact Information,お問い合わせ先
+Checkout,student_login_description,Use this account to access materials and services related to your purchase,このアカウントを使用して、お客様の購入に関連する資料やサービスにアクセスすること
+Checkout,estimated_tax_label,Est. tax,Est. tax
+Checkout,plus_tax_hint,plus tax,plus tax
+Checkout,estimated_tax_tooltip_details,The estimated sales tax will be added to the order summary after you provide a delivery address. The listed sales tax on checkout is only an estimate. Your invoice will contain the final sales tax.,推定消費税は、お客様が配送先住所を入力した後、注文概要に追加されます。チェックアウト時に表示される税金はあくまでも概算です。領収書には最終的な税額が記載されます。
+Checkout,verified_email_school_account,It looks like you already have a %{school_name} account.,あなたはすでに%{school_name}アカウントを持っているようです。
+Checkout,verified_email_teachable_account,It looks like you already have a Teachable account.,あなたはすでにTeachableアカウントを持っているようです。
+Checkout,not_you_use_different_email,"If this is not you, please use a different email address.",そうでない場合は、別のEメールアドレスを使用して下さい。
+Checkout,forgot_password_sentence,"If you forgot your password, %{link}.",パスワードを忘れた場合は、%{link}。
+Checkout,forgot_password_link_text,click here to reset it,リセットするにはここをクリック
+Checkout,enter_password,Enter password,パスワードを入力する
+Checkout,logged_in_as,You are logged in as %{email}.,すでに %{email}でログインしています。
+Checkout,save_payment_details_for_future,Save my billing info for future purchases,今後の購入のためにカード情報を保存しておく
+Checkout,save_payment_details_learn_more,Learn More,もっと詳しく知る
+Checkout,wait_title,Hang tight! We're processing your payment.,支払いを処理しています。
+Checkout,wait_title_retry,Hey! You already have an order in progress.,既に注文が進行中です。
+Checkout,wait_message,This may take up to 30 seconds.,最大30秒かかります。
+Checkout,new_device_title,We don't recognize this device.,このデバイスでは認識できません。
+Checkout,new_device_body,Check your email for instructions to authorize this device and complete your purchase.,このデバイスを認証して購入を完了する手順については、メールを確認して下さい。
+Checkout,coupon_frequency_first,First Payment,初回のお支払い
+Checkout,coupon_frequency_all,All Payments,すべてのお支払い
+Checkout,purchase_form_disclaimer,This is a subscription product billed on a monthly basis until you cancel. Cancel anytime from the account management page.,本製品は、解約するまで月単位で請求されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
+Checkout,purchase_form_disclaimer_quarterly,This is a subscription product billed on a quarterly basis until you cancel. Cancel anytime from the account management page.,本製品は、解約するまで四半期ごとに請求されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
+Checkout,purchase_form_disclaimer_semiannually,This is a subscription product billed on a semi-annual basis until you cancel. Cancel anytime from the account management page.,本製品は、解約するまで半年ごとに課金されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
+Checkout,purchase_form_disclaimer_yearly,This is a subscription product billed on a yearly basis until you cancel. Cancel anytime from the account management page.,本製品は、解約するまで1年ごとに課金されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
+Checkout,purchase_form_disclaimer_weekly,This is a subscription product billed on a weekly basis until you cancel. Cancel anytime from the account management page.,本製品は、解約するまで週ごとに課金されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
+Checkout,purchase_form_disclaimer_biweekly,This is a subscription product billed on a biweekly basis until you cancel. Cancel anytime from the account management page.,本製品は、解約するまで隔週ごとに課金されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
+Checkout,purchase_form_vat_school_disclaimer,Contact %{school_name} for more info.,詳細は %{school_name} へお問い合わせください。
+Checkout,purchase_form_vat_owner_disclaimer,Contact %{school_owner} at %{school_name} for more info.,詳細は %{school_name} の %{school_owner} へお問い合わせください。
+Checkout,address_verification_error,There was an issue verifying your address. Please review the entered info for accuracy.,あなたの住所の確認に問題が発生しました。入力した情報が正しいかどうか確認してください。
+Creator Checkout,new_device_sign_in,"One more thing, we need to confirm this device. Please enter the code in the email we sent you.",もうひとつ、このデバイスを確認する必要があります。先ほどお送りしたメールに記載されているコードを入力してください。
 Card Decline Reasons,approve_with_id,The payment cannot be authorized.,支払いを承認できません。
 Card Decline Reasons,card_not_supported,This card does not support this type of purchase. Please check with your card provider.,サポートされていないカードです。
 Card Decline Reasons,card_velocity_exceeded,This card has exceeded its balance or credit limit. Please try another card.,カードで利用可能な残高またはクレジット限度を超えました。
