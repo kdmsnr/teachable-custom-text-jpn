@@ -162,6 +162,55 @@ Checkout,purchase_form_vat_school_disclaimer,Contact %{school_name} for more inf
 Checkout,purchase_form_vat_owner_disclaimer,Contact %{school_owner} at %{school_name} for more info.,詳細は %{school_name} の %{school_owner} へお問い合わせください。
 Checkout,address_verification_error,There was an issue verifying your address. Please review the entered info for accuracy.,あなたの住所の確認に問題が発生しました。入力した情報が正しいかどうか確認してください。
 Creator Checkout,new_device_sign_in,"One more thing, we need to confirm this device. Please enter the code in the email we sent you.",もうひとつ、このデバイスを確認する必要があります。先ほどお送りしたメールに記載されているコードを入力してください。
+Courses,watch_promo_button,Watch Promo,プロモーションビデオを見る
+Courses,your_instructor,Your Instructor,インストラクター
+Courses,get_started,Get Started Now,↓下記をクリック↓
+Courses,faq_title,Frequently Asked Questions,よくある質問
+Courses,curriculum,Course Curriculum,コースカリキュラム
+Courses,search_prompt,Find a product,コースを探す
+Courses,off_original_price,off original price!,通常価格より割引されます！
+Courses,applied_at_checkout,(coupon will be applied at checkout),（クーポンはチェックアウト時に適用されます）
+Courses,included_with_purchase,Courses Included with Purchase,同時に受講可能になるコース
+Courses,included_courses,Included Courses,含まれているコース
+Courses,included_products,Included Products,含まれている製品
+Courses,bundle_size,Course Bundle,セットコース
+Courses,original_price,Original Price,通常価格
+Courses,originally_valued_at,Originally valued at,もともとは
+Courses,lecture_list_preview,Preview,プレビュー
+Courses,lecture_list_complete,Complete,コンプリート
+Courses,lecture_list_start,Start,開始
+Courses,lecture_list_review,Review,レビュー
+Courses,start_next_lecture,Start next lecture,次のレクチャーに進む
+Courses,start_lesson,Start Lesson,レッスン開始
+Courses,next_lesson,Next Lesson,次のレッスン
+Courses,progress_bar_header,Progress,進捗
+Courses,complete_summary,%{completed} / %{total} complete,%{completed} / %{total} 達成
+Courses,all_lessons_completed,All lessons have been completed.,すべてのレッスンが完了
+Courses,you_can_review,You can review the materials at any point.,教材はいつでも見直すことができます。
+Courses,sign_in_to_view_courses,Please Log in or Sign Up to View Your Courses,コースを見るためにログインまたはサインアップしてください。
+Courses,cta_before_count,Join,参加する。
+Courses,tax_exclusive_disclaimer,Plus tax where applicable.,加えて税金がかかる場合もあります。
+Courses,tax_inclusive_disclaimer,Local tax included where applicable.,必要に応じて現地の税金が含まれます。
+Courses,cta_after_count,others and get started now!,他の人と今すぐ始めよう！
+Courses,cta_no_count,Get started now!,↓下記をクリック↓
+Courses,preenrollment_success,Thanks! We'll be in touch.,ありがとうございます。
+Courses,preenrollment_failure,Please check your email address.,メールアドレスをご確認ください。
+Courses,category_filter,Category:,カテゴリー:
+Courses,author_filter,Author:,講師:
+Courses,all_filter,All,すべて
+Courses,no_products,This course is closed for enrollment.,このコースはまだ公開されていません。
+Courses,enroll,Enroll,【受講する】
+Courses,search_button,<i class='fa fa-search' title='Search'></i>,"<i class=""fa fa-search""></i>"
+Courses,available_in,Available in,公開まで、あと
+Courses,after_you_enroll,after you enroll,受講後
+Courses,days,days,日
+Courses,already_enrolled,You are already enrolled in this course. Click here to view it &rarr;,すでにこのコースを受講しています。こちらをチェックしてください。 →
+Courses,certificate,Certificate,証明書
+Courses,certificate_download,Download,ダウンロード
+Courses,certificate_modal_title,Congratulations on completing %{course_name}!,おめでとうございます！%{course_name}を完了しました。
+Courses,certificate_download_info,Get a copy of your certificate,証明書の発行
+Courses,available_until,Available until,Available until
+Courses,available_until_info,You purchased this course on %{purchase_date} and have until %{expiration_date} to access all the content.,あなたはこのコースを%{purchase_date}に購入し、%{expiration_date}まですべてのコンテンツにアクセスすることができます。
 Card Decline Reasons,approve_with_id,The payment cannot be authorized.,支払いを承認できません。
 Card Decline Reasons,card_not_supported,This card does not support this type of purchase. Please check with your card provider.,サポートされていないカードです。
 Card Decline Reasons,card_velocity_exceeded,This card has exceeded its balance or credit limit. Please try another card.,カードで利用可能な残高またはクレジット限度を超えました。
