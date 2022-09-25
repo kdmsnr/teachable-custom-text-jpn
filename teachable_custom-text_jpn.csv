@@ -1,282 +1,936 @@
 ﻿Section,KEY,DEFAULT ,JPN
-Header,admin,Admin,管理者
-Header,sign_in,Login,ログイン
-Header,sign_up,Sign Up,登録する
-Header,log_out,Log Out,ログアウト
-Header,more,More,詳細を見る
-Footer,copyright,&copy;,&copy;
-Footer,contact_us,Contact Us,お問い合わせ
-Checkout,apply,Apply,適用する
-Checkout,invalid_coupon,Invalid Coupon,無効なクーポンです
-Checkout,reset,Reset,リセット
-Checkout,select_course,Select Course,コースを選択
-Checkout,tax_applied,The transaction total has been updated to reflect added tax based on your shipping country. Please review the new total and confirm your payment.,取引合計は、請求先の国に基づく追加税を反映するように更新されました。新しい合計を確認して、支払いを確認してください。
-Checkout,complete_purchase,Complete Purchase,購入を完了する
-Checkout,verify,Verify,確認する
-Checkout,continue,Continue,続ける
-Checkout,buy_now,Buy Now,今すぐ受講する
-Checkout,subscribe,Subscribe,申し込む
-Checkout,place_order,Place Order,注文する
-Checkout,get_it_for_free,Get it for free,無料で入手
-Checkout,subscribe_for_free,Subscribe for free,無料で購読
-Checkout,review_your_order,Order Summary,注文内容を確認する
-Checkout,enter_payment_information,Payment Information,支払い情報を入力する
-Checkout,confirm_payment_information,Confirm Payment Information,お支払い情報の確認
-Checkout,payment_method,Payment Method,支払い方法
-Checkout,change,Change,変更する
-Checkout,cc_statement_name,This transaction will appear on your statement as,この取引はあなたの明細書に次のように表示されます。
-Checkout,credit_card,Credit Card,クレジットカード
-Checkout,credit_card_aria_label,Click to select Credit Card payment method,クレジットカード決済を選択してください。
-Checkout,paypal,PayPal,PayPal
-Checkout,paypal_aria_label,Click to select Paypal payment method,Paypal決済を選択してください。
-Checkout,paypal_tax_disclaimer,"Where applicable, the final sales tax may be added after you complete the transaction.",該当する場合は、取引完了後に消費税が追加されることがあります。
-Checkout,mobile_pay,Mobile Pay,Apple Pay®またはGoogle Pay™
-Checkout,mobile_pay_aria_label,Click to select Mobile Pay payment method,Apple Pay®またはGoogle Pay™を選択してください。
-Checkout,add_new_card,Add a new Credit Card,新しいクレジットカードを追加
-Checkout,use_existing_card,Use existing Credit Card,既存のクレジットカードを使用
-Checkout,checkout_with_paypal,Checkout with,チェックアウトする
-Checkout,card_ends_in,The card you have on file ends in,お持ちのカードの末尾
-Checkout,use_another_card,Use another card,他のクレジットカードを使用
-Checkout,use_card_ending_in,I'd like to use the card ending in,次のもので終わるカードを使いたい
-Checkout,success_message,You've been enrolled!,すでに受講済みです
-Checkout,error_message,"Sorry, there was an error completing your purchase -- please try again.",申し訳ありません。購入手続き中にエラーが発生しました。もう一度お試しください。
-Checkout,tax,Tax Rate,税率
-Checkout,tax_detailed,Est. Tax - %{percent} (%{country_name}),Est. 税金 - %{percent} (%{country_name})
-Checkout,coupon_discount,Coupon Discount,クーポン割引
-Checkout,enter_coupon_code,Coupon code,クーポンコード
-Checkout,vat_number_label,Tax ID Number,税務申告書番号
-Checkout,vat_number_tooltip,Please ensure that your Tax ID is formatted correctly for your country or province.,税務申告書番号があなたの国または地域で正しくフォーマットされていることを確認してください。
-Checkout,vat_applied_label,Tax number applied,適用される税務申告書番号
-Checkout,vat_applied_tooltip,The estimated tax is added to the order summary after you provide a delivery address. The listed tax on checkout is only an estimate. Your receipt will contain the final tax amount.,推定消費税は、お客様が配送先住所を入力した後、注文概要に追加されます。チェックアウト時に表示される税金はあくまでも概算です。領収書には最終的な税額が記載されます。
-Checkout,vat_removed,Your Tax ID Number has been applied to this purchase.,あなたの税務申告書番号がこの購入に適用されました。
-Checkout,add_coupon,Add Coupon Code,クーポンコードを追加
-Checkout,remove_coupon,remove,クーポンを削除
-Checkout,expired_invalid_coupon_entered,"The coupon code you entered is expired or invalid, but the course is still available!",入力したクーポンコードは有効期限が切れているか無効ですが、コースはまだ受講できます。
-Checkout,redeem_coupon,Redeem Coupon,クーポンを利用
-Checkout,total,Total,合計
-Checkout,billed_today,Billed Today,本日のお支払金額
-Checkout,next_billing_date,Next billing date:,次回決済日:
-Checkout,subscription_cadence_monthly,monthly,毎月
-Checkout,subscription_cadence_quarterly,quarterly,四半期毎
-Checkout,subscription_cadence_semiannually,semi-annual,半年ごと
-Checkout,subscription_cadence_yearly,yearly,毎年
-Checkout,subscription_cadence_weekly,weekly,毎週
-Checkout,subscription_cadence_biweekly,biweekly,隔週
-Checkout,subscription_purchase_disclaimer,"By purchasing this plan, you agree that you are purchasing a subscription of %{price} that is charged on a recurring %{subscription_cadence} basis, %{after_your_free_trial} until you cancel.",このプランを購入することで、お客様は、解約するまで %{subscription_cadence} ベースで定期的に課金される %{after_your_free_trial} のサブスクリプションを購入することに同意するものとします。
-Checkout,subscription_purchase_disclaimer_with_bump,"By executing this order, you agree that you are purchasing two subscriptions, %{price}, that are charged on a %{subscription_cadence} recurring basis, %{after_your_free_trial} until you cancel. You will be charged in a single transaction today though you will receive receipts for each product. On a go-forward basis, each product will be billed separately.",
-Checkout,plus_any_applicable_tax,(plus any applicable tax),(別途消費税がかかります)
-Checkout,after_your_free_trial,"after your free trial,",無料トライアルの後
-Checkout,steps_select_a_course,Select a course,コースを選ぶ
-Checkout,steps_create_account,Create account,アカウントを作成する
-Checkout,steps_login,Login,ログイン
-Checkout,steps_checkout,Payment,支払い
-Checkout,invalid_vat_id,Invalid Tax Number,不正なTAX Number
-Checkout,incorrect_number,The card number is incorrect.,カード番号が正しくありません。
-Checkout,invalid_number,The card number is invalid.,カード番号が無効です。
-Checkout,card_declined,The card was declined.,このカードは有効期限切れです。
-Checkout,invalid_expiry_month,The card's expiration month is invalid.,カードの有効期限月が無効です。
-Checkout,invalid_expiry_year,The card's expiration year is invalid.,カードの有効期限年が無効です。
-Checkout,invalid_cvc,The card's security code is invalid.,このカードのセキュリティコードが無効です。
-Checkout,expired_card,The card has expired.,カードは有効期限切れです。
-Checkout,incorrect_cvc,The card's security code is incorrect.,カードのセキュリティコードが無効です。
-Checkout,incorrect_postal,The card's postal code failed validation.,カードの郵便番号の検証に失敗しました。
-Checkout,incorrect_zip,The card's ZIP code failed validation.,カードの郵便番号の検証に失敗しました。
-Checkout,invalid_request_error,The card number is not a valid credit card number.,カード番号が有効なクレジットカード番号ではありません。
-Checkout,missing,There is no card on a customer that is being charged.,請求されている顧客にカードがありません。
-Checkout,processing_error,An error occurred while processing the payment.,支払いの過程で問題が発生しました。
-Checkout,fedora_server_error,"Undergoing maintenance, purchasing temporarily unavailable, please try again later. You have not been charged.",メンテナンス中で一時的に購入できません。しばらくしてからもう一度お試しください。まだ請求はされていません。
-Checkout,multiple_currency_error,"We are very sorry, but at this time we can only support subscriptions in one currency per customer, and you already have a subscription in a different currency.",申し訳ありません。現時点では１顧客につき１つの通貨での登録しかサポートしておりません。既に別の通貨で登録されています。
-Checkout,already_purchased_error,You have already purchased this product.,この商品は既に購入されています。
-Checkout,network_error,A network error prevented this action from being completed. Please try again.,ネットワークエラーにより、この操作を完了できませんでした。もう一度やり直してください。
-Checkout,business_name,Business name,会社名
-Checkout,add_business_details,Add business details,Add business details
-Checkout,add_business_name,Add business name,会社名を追加する（任意）
-Checkout,billing_address,Billing Address,住所
-Checkout,delivery_address,Delivery Address,配送先住所
-Checkout,delivery_address_tooltip,Delivery address is required to calculate taxes. We may also use this to send any physical materials related to the purchase.,お届け先は、税金の計算に必要です。また、ご購入いただいた商品に関連する資料をお送りする際にも使用することがあります。
-Checkout,city,City,市区町村
-Checkout,state,State,State
-Checkout,state_province_or_region,"State, Province, or Region",都道府県を追加
-Checkout,add_state_province_or_region,"Add State, Province, or Region",都道府県
-Checkout,country,Country,国
-Checkout,street_address,Street Address,番地(英数字のみ)
-Checkout,street_address_2,Street Address Line 2,建物名(ローマ字、英数字)
-Checkout,add_street_address_2,Add address line 2,建物名などを入力(英数字のみ)
-Checkout,street_address_2_placeholder,apt/floor/suite/bldg,アパート名/部屋番号/建物名
-Checkout,postal_code,Postal Code,郵便番号
-Checkout,zip_code,ZIP Code,郵便番号
-Checkout,delivery_same_as_billing,Delivery address same as billing,配送先の住所は同じです
-Checkout,add_card,Add Card,カードを追加する
-Checkout,verify_card,Verify Card,カードを確認する
-Checkout,verifying_card,Verifying Card...,カードを確認中…
-Checkout,confirm_payment,Confirm Payment,支払いを確認する
-Checkout,verified_card,Verified card ending in,確認済みのカードで終わる
-Checkout,name_on_card_required,Name on card is required,カードの名前は必須です。
-Checkout,no_country_selected,Please select your billing country,国を選択してください。
-Checkout,country_select_prompt,Select your billing country,請求先の国を選択
-Checkout,tax_country_mismatch,We could not establish a correct country for tax purposes. Please try again.,税務上、正しい国を設定できませんでした。もう一度やり直して下さい。
-Checkout,security_info_heading,Your payment is secure,この支払いは全て暗号化されます
-Checkout,security_info_description,This is a secure 128-bit SSL encrypted payment,全ての支払いは暗号化され、安全な128ビットSSL暗号化技術によって処理されます
-Checkout,required_fields_description,required,必須
-Checkout,optional_fields_description,optional,任意
-Checkout,mobile_pay_authorized_message,Almost done! Complete your order by clicking the button below.,ほぼ完了しました。下記のボタンをクリックして注文を完了して下さい。
-Checkout,email_error_default,The email you entered is invalid.,入力されたメールアドレスは無効です
-Checkout,email_error_misspelled_gmail,"Did you mean ""gmail""?",gmailになっていますか？
-Checkout,email_error_misspelled_com,"Did you mean "".com""?",.comになっていますか？
-Checkout,email_error_no_tld,"Did you forget something? Most email addresses have a ""."", like in "".com"".",何かお忘れではありませんか？ほとんどのメールアドレスには「.com」のように「.」が付きます。
-Checkout,email_error_dismiss,Dismiss,やめる
-Checkout,your_order_id,Your order ID:,あなたの注文 ID:
-Checkout,receive_confirmation_at,You will shortly receive an email confirmation at,すぐに確認メールが届きます。
-Checkout,password_header,One last step...,最後のステップ…
-Checkout,password_instructions,Please complete your account information to access %{course_name} in the future.,今後%{course_name}にアクセスするには、アカウント情報を入力してください。
-Checkout,password_submit,Create Account,アカウントを作成する
-Checkout,confirm_location,Confirm Your Billing Location,請求先を確認して下さい
-Checkout,account_information,Contact Information,お問い合わせ先
-Checkout,student_login_description,Use this account to access materials and services related to your purchase,このアカウントを使用して、お客様の購入に関連する資料やサービスにアクセスすること
-Checkout,estimated_tax_label,Est. tax,Est. tax
-Checkout,plus_tax_hint,plus tax,plus tax
-Checkout,estimated_tax_tooltip_details,The estimated sales tax will be added to the order summary after you provide a delivery address. The listed sales tax on checkout is only an estimate. Your invoice will contain the final sales tax.,推定消費税は、お客様が配送先住所を入力した後、注文概要に追加されます。チェックアウト時に表示される税金はあくまでも概算です。領収書には最終的な税額が記載されます。
-Checkout,verified_email_school_account,It looks like you already have a %{school_name} account.,あなたはすでに%{school_name}アカウントを持っているようです。
-Checkout,verified_email_teachable_account,It looks like you already have a Teachable account.,あなたはすでにTeachableアカウントを持っているようです。
-Checkout,not_you_use_different_email,"If this is not you, please use a different email address.",そうでない場合は、別のEメールアドレスを使用して下さい。
-Checkout,forgot_password_sentence,"If you forgot your password, %{link}.",パスワードを忘れた場合は、%{link}。
-Checkout,forgot_password_link_text,click here to reset it,リセットするにはここをクリック
-Checkout,enter_password,Enter password,パスワードを入力する
-Checkout,logged_in_as,You are logged in as %{email}.,すでに %{email}でログインしています。
-Checkout,save_payment_details_for_future,Save my billing info for future purchases,今後の購入のためにカード情報を保存しておく
-Checkout,save_payment_details_learn_more,Learn More,もっと詳しく知る
-Checkout,wait_title,Hang tight! We're processing your payment.,支払いを処理しています。
-Checkout,wait_title_retry,Hey! You already have an order in progress.,既に注文が進行中です。
-Checkout,wait_message,This may take up to 30 seconds.,最大30秒かかります。
-Checkout,new_device_title,We don't recognize this device.,このデバイスでは認識できません。
-Checkout,new_device_body,Check your email for instructions to authorize this device and complete your purchase.,このデバイスを認証して購入を完了する手順については、メールを確認して下さい。
-Checkout,coupon_frequency_first,First Payment,初回のお支払い
-Checkout,coupon_frequency_all,All Payments,すべてのお支払い
-Checkout,purchase_form_disclaimer,This is a subscription product billed on a monthly basis until you cancel. Cancel anytime from the account management page.,本製品は、解約するまで月単位で請求されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
-Checkout,purchase_form_disclaimer_quarterly,This is a subscription product billed on a quarterly basis until you cancel. Cancel anytime from the account management page.,本製品は、解約するまで四半期ごとに請求されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
-Checkout,purchase_form_disclaimer_semiannually,This is a subscription product billed on a semi-annual basis until you cancel. Cancel anytime from the account management page.,本製品は、解約するまで半年ごとに課金されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
-Checkout,purchase_form_disclaimer_yearly,This is a subscription product billed on a yearly basis until you cancel. Cancel anytime from the account management page.,本製品は、解約するまで1年ごとに課金されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
-Checkout,purchase_form_disclaimer_weekly,This is a subscription product billed on a weekly basis until you cancel. Cancel anytime from the account management page.,本製品は、解約するまで週ごとに課金されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
-Checkout,purchase_form_disclaimer_biweekly,This is a subscription product billed on a biweekly basis until you cancel. Cancel anytime from the account management page.,本製品は、解約するまで隔週ごとに課金されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
-Checkout,purchase_form_vat_school_disclaimer,Contact %{school_name} for more info.,詳細は %{school_name} へお問い合わせください。
-Checkout,purchase_form_vat_owner_disclaimer,Contact %{school_owner} at %{school_name} for more info.,詳細は %{school_name} の %{school_owner} へお問い合わせください。
-Checkout,address_verification_error,There was an issue verifying your address. Please review the entered info for accuracy.,あなたの住所の確認に問題が発生しました。入力した情報が正しいかどうか確認してください。
-Creator Checkout,new_device_sign_in,"One more thing, we need to confirm this device. Please enter the code in the email we sent you.",もうひとつ、このデバイスを確認する必要があります。先ほどお送りしたメールに記載されているコードを入力してください。
-Courses,watch_promo_button,Watch Promo,プロモーションビデオを見る
-Courses,your_instructor,Your Instructor,インストラクター
-Courses,get_started,Get Started Now,↓下記をクリック↓
-Courses,faq_title,Frequently Asked Questions,よくある質問
-Courses,curriculum,Course Curriculum,コースカリキュラム
-Courses,search_prompt,Find a product,コースを探す
-Courses,off_original_price,off original price!,通常価格より割引されます！
-Courses,applied_at_checkout,(coupon will be applied at checkout),（クーポンはチェックアウト時に適用されます）
-Courses,included_with_purchase,Courses Included with Purchase,同時に受講可能になるコース
-Courses,included_courses,Included Courses,含まれているコース
-Courses,included_products,Included Products,含まれている製品
-Courses,bundle_size,Course Bundle,セットコース
-Courses,original_price,Original Price,通常価格
-Courses,originally_valued_at,Originally valued at,もともとは
-Courses,lecture_list_preview,Preview,プレビュー
-Courses,lecture_list_complete,Complete,コンプリート
-Courses,lecture_list_start,Start,開始
-Courses,lecture_list_review,Review,レビュー
-Courses,start_next_lecture,Start next lecture,次のレクチャーに進む
-Courses,start_lesson,Start Lesson,レッスン開始
-Courses,next_lesson,Next Lesson,次のレッスン
-Courses,progress_bar_header,Progress,進捗
-Courses,complete_summary,%{completed} / %{total} complete,%{completed} / %{total} 達成
-Courses,all_lessons_completed,All lessons have been completed.,すべてのレッスンが完了
-Courses,you_can_review,You can review the materials at any point.,教材はいつでも見直すことができます。
-Courses,sign_in_to_view_courses,Please Log in or Sign Up to View Your Courses,コースを見るためにログインまたはサインアップしてください。
-Courses,cta_before_count,Join,参加する。
-Courses,tax_exclusive_disclaimer,Plus tax where applicable.,加えて税金がかかる場合もあります。
-Courses,tax_inclusive_disclaimer,Local tax included where applicable.,必要に応じて現地の税金が含まれます。
-Courses,cta_after_count,others and get started now!,他の人と今すぐ始めよう！
-Courses,cta_no_count,Get started now!,↓下記をクリック↓
-Courses,preenrollment_success,Thanks! We'll be in touch.,ありがとうございます。
-Courses,preenrollment_failure,Please check your email address.,メールアドレスをご確認ください。
-Courses,category_filter,Category:,カテゴリー:
-Courses,author_filter,Author:,講師:
-Courses,all_filter,All,すべて
-Courses,no_products,This course is closed for enrollment.,このコースはまだ公開されていません。
-Courses,enroll,Enroll,【受講する】
-Courses,search_button,<i class='fa fa-search' title='Search'></i>,"<i class=""fa fa-search""></i>"
-Courses,available_in,Available in,公開まで、あと
-Courses,after_you_enroll,after you enroll,受講後
-Courses,days,days,日
-Courses,already_enrolled,You are already enrolled in this course. Click here to view it &rarr;,すでにこのコースを受講しています。こちらをチェックしてください。 →
-Courses,certificate,Certificate,証明書
-Courses,certificate_download,Download,ダウンロード
-Courses,certificate_modal_title,Congratulations on completing %{course_name}!,おめでとうございます！%{course_name}を完了しました。
-Courses,certificate_download_info,Get a copy of your certificate,証明書の発行
-Courses,available_until,Available until,Available until
-Courses,available_until_info,You purchased this course on %{purchase_date} and have until %{expiration_date} to access all the content.,あなたはこのコースを%{purchase_date}に購入し、%{expiration_date}まですべてのコンテンツにアクセスすることができます。
-Card Decline Reasons,approve_with_id,The payment cannot be authorized.,支払いを承認できません。
-Card Decline Reasons,card_not_supported,This card does not support this type of purchase. Please check with your card provider.,サポートされていないカードです。
-Card Decline Reasons,card_velocity_exceeded,This card has exceeded its balance or credit limit. Please try another card.,カードで利用可能な残高またはクレジット限度を超えました。
-Card Decline Reasons,currency_not_supported,This card does not support the specified currency. Please try another card.,カードは指定された通貨をサポートしていません。
-Card Decline Reasons,duplicate_transaction,"An identical transaction was submitted very recently. Please try again later, or try another card.",ごく最近、同じ内容の取引が行われました。後日、再度お試しいただくか、別のカードをお試しください。
-Card Decline Reasons,expired_card,This card has expired. Please try again with a different card.,カードは期限切れです。
-Card Decline Reasons,fraudulent,Card declined. Please contact your card provider.,Stripeが不正である疑いがあると判断したため、支払いは拒否されました。
-Card Decline Reasons,incorrect_number,Invalid card information. Please try again.,カード番号が正しくありません。
-Card Decline Reasons,incorrect_cvc,Invalid card information. Please try again.,CVC番号が正しくありません。
-Card Decline Reasons,incorrect_pin,Invalid card information. Please try again.,入力されたPINが正しくありません。
-Card Decline Reasons,incorrect_zip,Invalid card information. Please try again.,郵便番号が正しくありません。
-Card Decline Reasons,insufficient_funds,The card has insufficient funds.,購入に必要な残高が不足しています。
-Card Decline Reasons,invalid_account,"This card, or connected account, is invalid.",カード、またはカードを設定しているアカウントが無効です。
-Card Decline Reasons,invalid_amount,Invalid payment amount.,支払金額が無効か、限度額を超えています。
-Card Decline Reasons,invalid_cvc,Invalid card information. Please try again.,CVC番号が正しくありません。
-Card Decline Reasons,invalid_expiry_year,Invalid card information. Please try again.,有効期限が無効です。
-Card Decline Reasons,invalid_number,Invalid card information. Please try again.,カード番号が正しくありません。
-Card Decline Reasons,invalid_pin,Invalid card information. Please try again.,入力されたPINが正しくありません。
-Card Decline Reasons,issuer_not_available,Unable to reach the card provider. Please contact your card provider if the issue persists.,カード会社へ連絡がつかなったため、支払いを承認できませんでした。
-Card Decline Reasons,lost_card,Card declined. Please contact your card provider.,カードが紛失したと報告されたため、支払いが拒否されました。
-Card Decline Reasons,merchant_blacklist,This card has been blocked by the seller.,Stripeユーザーのブラックリストと一致するため、支払いが拒否されました。
-Card Decline Reasons,new_account_information_available,"This card, or connected account, is invalid.",カード、またはカードが接続されているアカウントが無効です。
-Card Decline Reasons,not_permitted,The payment is not permitted.,支払いは許可されていません。
-Card Decline Reasons,pickup_card,Card declined. Please contact your card provider.,この支払いにこのカードを使用することはできません（紛失または盗難にあったと報告されている可能性があります）。
-Card Decline Reasons,pin_try_exceeded,The allowed number of PIN attempts has been reached.,許可されたPINの試行回数に達しました。
-Card Decline Reasons,processing_error,An error occurred while processing this card.,原因不明の理由により、カード会社が支払いを処理できませんでした。
-Card Decline Reasons,reenter_transaction,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,restricted_card,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,testmode_decline,Stripe test cards cannot be used for purchases.,ストライプテストカードはお買い物にはご利用いただけません。
-Card Decline Reasons,withdrawal_count_limit_exceeded,This card has reached its credit limit.,このカードは利用限度額に達しています。
-Card Decline Reasons,stolen_card,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,call_issuer,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,do_not_honor,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,do_not_try_again,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,generic_decline,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,no_action_taken,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,revocation_of_all_authorizations,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,revocation_of_authorization,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,security_violation,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,service_not_allowed,The card has been declined for an unknown reason.,原因不明の理由により、カード会社が支払いを処理できませんでした。
-Card Decline Reasons,stop_payment_order,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,transaction_not_allowed,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Card Decline Reasons,try_again_later,Card declined. Please contact your card provider.,カードが使用できません。カード会社にお問い合わせください。
-Sessions,signed_in,Signed in successfully.,サインインしました。
-Sessions,signed_out,Signed out successfully.,ログアウトしました。
-Sessions,already_signed_out,Signed out successfully.,ログアウトしました。
-Sessions,locked,You've exceeded the number of unsuccessful login attempts. Please check your email to unlock your account.,ログイン試行の回数が上限を超えました。メールを確認して、アカウントのロックを解除してください。
-Sessions,unrecognized_device_title,New device detected,このデバイスを認識できません。
-Sessions,new_device_sign_in,"To verify it’s you, enter the code from the email we’ve just sent to you.",ご本人であることを確認するために、送信メールに記載されているコードを入力してください。
-Sessions,confirm_device_instructions_notice,Confirm this device by entering the code in the email we sent you.,送信されたメールのコードを入力して、このデバイスを確認します。
-Sessions,resend_device_confirmation_email_link,Resend Code,もう一度送信するにはここをクリックしてください。
-Sessions,confirmation_code_label,Confirmation code,確認コード
-Sessions,submit_confirmation_code,Next,Next
-Quiz,Quiz,Quiz,クイズ
-Quiz,back,Back,戻る
-Quiz,check,Check,採点する
-Quiz,continue,Continue,続ける
-Quiz,you_scored,You scored,スコア
-Quiz,retake_quiz,Retake Quiz,クイズの再挑戦
-Quiz,select_an_answer,Select an answer.,答えを選ぶ
-Quiz,retake_retry,You need a score of at least %{minimumQuizScore}% to continue - you may retake this quiz %{retakes} more time(s).,続行するには最低 %{minimumQuizScore}% のスコアが必要です - このクイズは %{retakes} 回以上再受験できます。
-Quiz,retake_request,You need a score of at least %{minimumQuizScore}% to continue - a request has been sent to the school owner to reset your score. You will be notified if the school owner allows you to retake this quiz.,続行するには最低 %{minimumQuizScore}% のスコアが必要です - あなたのスコアをリセットするリクエストが講座のオーナーへ送信されました。講座のオーナーがあなたにこのクイズの再受験を許可した場合、あなたへ通知されます。
-Contact,success_message,Your message has been successfully sent to the school owner(s).,あなたのメッセージは、講座のオーナーに送信されました。
-Contact,failure_message,"Unable to send message, please try again.",メッセージを送信できませんでした、もう一度試してください。
-Contact,unconfirmed_email_message,You need to confirm your email address before using this functionality.,この機能を利用するには、メールアドレスの確認が必要です。
-Blog,about,ABOUT,ABOUT
-Blog,read_more,READ MORE,もっと読む
-Product Collection,no_products,This bundle is not available for purchase.,このバンドルは購入することはできません。
-Product Collection,contents,Bundle contents,バンドルコンテンツ
+Header,admin,'Admin',管理者
+Header,sign_in,'Login',ログイン
+Header,sign_up,'Sign Up',登録する
+Header,log_out,'Log Out',ログアウト
+Header,more,'More',詳細を見る
+Footer,copyright,'&copy;',&copy;
+Footer,contact_us,'Contact Us',お問い合わせ
+Checkout,logged_in,'You are logged in as',You are logged in as
+Checkout,with_this_email_address,'with this email address to finish your purchase.',with this email address to finish your purchase.
+Checkout,existing_account_detected,'Existing account detected',Existing account detected
+Checkout,forgot_your_password_link_text,'Forgot your password?',Forgot your password?
+Checkout,password_login_link_title,'Log in',Log in
+Checkout,apply,'Apply',適用する
+Checkout,invalid_coupon,'Invalid Coupon',無効なクーポンです
+Checkout,already_have_account,'Already have an acccount?',Already have an acccount
+Checkout,use_this_account,'Use this account to access your purchase.',Use this account to access your purchase.
+Checkout,reset_password,'Reset your password',Reset your password
+Checkout,login_with_email,'To finish your purchase, use this email address to log in to your account with this business',To finish your purchase, use this email address to log in to your account with this business
+Checkout,reset,'Reset',リセット
+Checkout,select_course,'Select Course',コースを選択
+Checkout,tax_applied,'The transaction total has been updated to reflect added tax based on your shipping country. Please review the new total and confirm your payment.',取引合計は、請求先の国に基づく追加税を反映するように更新されました。新しい合計を確認して、支払いを確認してください。
+Checkout,complete_purchase,'Complete Purchase',購入を完了する
+Checkout,verify,'Verify',確認する
+Checkout,continue,'Continue',続ける
+Checkout,buy_now,'Buy Now',今すぐ受講する
+Checkout,subscribe,'Subscribe',申し込む
+Checkout,place_order,'Place Order',注文する
+Checkout,get_it_for_free,'Get it for free',無料で入手
+Checkout,subscribe_for_free,'Subscribe for free',無料で購読
+Checkout,review_your_order,'Order Summary',注文内容を確認する
+Checkout,enter_payment_information,'Payment Information',支払い情報を入力する
+Checkout,confirm_payment_information,'Confirm Payment Information',お支払い情報の確認
+Checkout,payment_method,'Payment Method',支払い方法
+Checkout,change,'Change',変更する
+Checkout,cc_statement_name,'This transaction will appear on your statement as',この取引はあなたの明細書に次のように表示されます。
+Checkout,credit_card,'Credit or Debit Card',クレジットカード
+Checkout,credit_card_aria_label,'Click to select Credit Card payment method',クレジットカード決済を選択してください。
+Checkout,paypal,'PayPal',PayPal
+Checkout,paypal_aria_label,'Click to select Paypal payment method',Paypal決済を選択してください。
+Checkout,paypal_tax_disclaimer,'Where applicable, the final sales tax may be added after you complete the transaction.',該当する場合は、取引完了後に消費税が追加されることがあります。
+Checkout,mobile_pay,'Mobile Pay',Apple Pay®またはGoogle Pay™
+Checkout,mobile_pay_aria_label,'Click to select Mobile Pay payment method',Apple Pay®またはGoogle Pay™を選択してください。
+Checkout,add_new_card,'Add a new Credit Card',新しいクレジットカードを追加
+Checkout,use_existing_card,'Use existing Credit Card',既存のクレジットカードを使用
+Checkout,checkout_with_paypal,'Checkout with',チェックアウトする
+Checkout,card_ends_in,'The card you have on file ends in',お持ちのカードの末尾
+Checkout,use_another_card,'Use another card',他のクレジットカードを使用
+Checkout,use_card_ending_in,'I'd like to use the card ending in',次のもので終わるカードを使いたい
+Checkout,success_message,'You've been enrolled!',あなたのメッセージは、講座のオーナーに送信されました。
+Checkout,error_message,'Sorry, there was an error completing your purchase -- please try again.',申し訳ありません。購入手続き中にエラーが発生しました。もう一度お試しください。
+Checkout,tax,'Tax Rate',税率
+Checkout,tax_detailed,'Est. Tax - %{percent} (%{country_name})',Est. 税金 - %{percent} (%{country_name})
+Checkout,coupon_discount,'Coupon Discount',クーポン割引
+Checkout,enter_coupon_code,'Coupon code',クーポンコード
+Checkout,vat_number_label,'Tax ID Number',税務申告書番号
+Checkout,vat_number_tooltip,'Please ensure that your Tax ID is formatted correctly for your country or province.',税務申告書番号があなたの国または地域で正しくフォーマットされていることを確認してください。
+Checkout,vat_applied_label,'Tax number applied',適用される税務申告書番号
+Checkout,vat_applied_tooltip,'This is an estimate of the tax you'll be charged. When you enter your delivery address, it will be updated. This tax can be removed if you (or your company) have an EU VAT ID and you enter it at the checkout.',推定消費税は、お客様が配送先住所を入力した後、注文概要に追加されます。チェックアウト時に表示される税金はあくまでも概算です。領収書には最終的な税額が記載されます。
+Checkout,vat_removed,'Your Tax ID Number has been applied to this purchase.',あなたの税務申告書番号がこの購入に適用されました。
+Checkout,add_coupon,'Add Coupon Code',クーポンコードを追加
+Checkout,remove_coupon,'remove',クーポンを削除
+Checkout,expired_invalid_coupon_entered,'The coupon code you entered is expired or invalid, but the course is still available!',入力したクーポンコードは有効期限が切れているか無効ですが、コースはまだ受講できます。
+Checkout,redeem_coupon,'Redeem Coupon',クーポンを利用
+Checkout,total,'Total',合計
+Checkout,billed_today,'Billed Today',本日のお支払金額
+Checkout,next_billing_date,'Next billing date:',次回決済日:
+Checkout,subscription_cadence_monthly,'monthly',毎月
+Checkout,subscription_cadence_quarterly,'quarterly',四半期毎
+Checkout,subscription_cadence_semiannually,'semi-annual',半年ごと
+Checkout,subscription_cadence_yearly,'yearly',毎年
+Checkout,subscription_cadence_weekly,'weekly',毎週
+Checkout,subscription_cadence_biweekly,'biweekly',隔週
+Checkout,subscription_purchase_disclaimer,'By purchasing this plan, you agree that you are purchasing a subscription of %{price} that is charged on a recurring %{subscription_cadence} basis, %{after_your_free_trial} until you cancel.',このプランを購入することで、お客様は、解約するまで %{subscription_cadence} ベースで定期的に課金される %{after_your_free_trial} のサブスクリプションを購入することに同意するものとします。
+Checkout,subscription_purchase_disclaimer_with_bump,'By executing this order, you agree that you are purchasing two subscriptions, %{price}, that are charged on a %{subscription_cadence} recurring basis, %{after_your_free_trial} until you cancel. You will be charged in a single transaction today though you will receive receipts for each product. On a go-forward basis, each product will be billed separately.',
+Checkout,plus_any_applicable_tax,'(plus any applicable tax)',(別途消費税がかかります)
+Checkout,after_your_free_trial,'after your free trial,',無料トライアルの後
+Checkout,steps_select_a_course,'Select a course',コースを選ぶ
+Checkout,steps_create_account,'Create account',アカウントを作成する
+Checkout,steps_login,'Login',ログイン
+Checkout,steps_checkout,'Payment',支払い
+Checkout,invalid_email,'Invalid email',Invalid email
+Checkout,invalid_username,'Invalid name',Invalid name
+Checkout,invalid_vat_id,'Invalid Tax Number',不正なTAX Number
+Checkout,invalid_number,'Invalid card number',カード番号が正しくありません。
+Checkout,incorrect_number,'Incorrect card number',カード番号が正しくありません。
+Checkout,incomplete_number,'Incomplete card number',Incomplete card number
+Checkout,card_declined,'The card was declined.',このカードは有効期限切れです。
+Checkout,incomplete_expiry,'Incomplete expiration date',Incomplete expiration date
+Checkout,invalid_expiry_month,'Invalid expiration month',カードの有効期限月が無効です。
+Checkout,incomplete_expiry_month,'Incomplete expiration month',Incomplete expiration month
+Checkout,invalid_expiry_year,'Invalid expiration year',有効期限が無効です。
+Checkout,invalid_expiry_year_past,'Expiration year is in the past',Expiration year is in the past
+Checkout,incomplete_expiry_year,'Incomplete expiration year',Incomplete expiration year
+Checkout,invalid_cvc,'Invalid CVC code',CVC番号が正しくありません。
+Checkout,incorrect_cvc,'Incorrect CVC code',CVC番号が正しくありません。
+Checkout,incomplete_cvc,'Incomplete CVC code',Incomplete CVC code
+Checkout,expired_card,'The card has expired.',カードは期限切れです。
+Checkout,incorrect_postal,'Invalid Postal Code',カードの郵便番号の検証に失敗しました。
+Checkout,incorrect_zip,'Invalid Zip Code',郵便番号が正しくありません。
+Checkout,missing,'There is no card on a customer that is being charged.',請求されている顧客にカードがありません。
+Checkout,processing_error,'An error occurred while processing the payment.',原因不明の理由により、カード会社が支払いを処理できませんでした。
+Checkout,fedora_server_error,'Undergoing maintenance, purchasing temporarily unavailable, please try again later. You have not been charged.',メンテナンス中で一時的に購入できません。しばらくしてからもう一度お試しください。まだ請求はされていません。
+Checkout,multiple_currency_error,'We are very sorry, but at this time we can only support subscriptions in one currency per customer, and you already have a subscription in a different currency.',申し訳ありません。現時点では１顧客につき１つの通貨での登録しかサポートしておりません。既に別の通貨で登録されています。
+Checkout,already_purchased_error,'You have already purchased this product.',この商品は既に購入されています。
+Checkout,network_error,'A network error prevented this action from being completed. Please try again.',ネットワークエラーにより、この操作を完了できませんでした。もう一度やり直してください。
+Checkout,business_name,'Business name',会社名
+Checkout,add_business_details,'Add business details',Add business details
+Checkout,business_details_toggle_label,'Are you a business? Enter your Tax ID (if applicable)',Are you a business? Enter your Tax ID (if applicable)
+Checkout,business_details_description,'We need your billing address in order to validate your tax ID',We need your billing address in order to validate your tax ID
+Checkout,add_business_name,'Add business name',会社名を追加する（任意）
+Checkout,billing_address,'Billing Address',住所
+Checkout,delivery_address,'Delivery Address',配送先住所
+Checkout,delivery_address_tooltip,'Delivery address is required to calculate taxes. We may also use this to send any physical materials related to the purchase.',お届け先は、税金の計算に必要です。また、ご購入いただいた商品に関連する資料をお送りする際にも使用することがあります。
+Checkout,city,'City',市区町村
+Checkout,state,'State',State
+Checkout,state_province_or_region,'State, Province, or Region',都道府県を追加
+Checkout,add_state_province_or_region,'Add State, Province, or Region',都道府県
+Checkout,country,'Country',国
+Checkout,street_address,'Street Address',番地(英数字のみ)
+Checkout,street_address_2,'Street Address Line 2',建物名(ローマ字、英数字)
+Checkout,add_street_address_2,'Add address line 2',建物名などを入力(英数字のみ)
+Checkout,street_address_2_placeholder,'apt/floor/suite/bldg',アパート名/部屋番号/建物名
+Checkout,postal_code,'Postal Code',郵便番号
+Checkout,zip_code,'ZIP Code',郵便番号
+Checkout,delivery_same_as_billing,'Delivery address same as billing',配送先の住所は同じです
+Checkout,add_card,'Add Card',カードを追加する
+Checkout,verify_card,'Verify Card',カードを確認する
+Checkout,verifying_card,'Verifying Card...',カードを確認中…
+Checkout,confirm_payment,'Confirm Payment',支払いを確認する
+Checkout,verified_card,'Verified card ending in',確認済みのカードで終わる
+Checkout,name_on_card_required,'Name on card is required',カードの名前は必須です。
+Checkout,no_country_selected,'Please select your billing country',国を選択してください。
+Checkout,country_select_prompt,'Select your billing country',請求先の国を選択
+Checkout,tax_country_mismatch,'We could not establish a correct country for tax purposes. Please try again.',税務上、正しい国を設定できませんでした。もう一度やり直して下さい。
+Checkout,security_info_heading,'Your payment is secure',この支払いは全て暗号化されます
+Checkout,security_info_description,'This is a secure 128-bit SSL encrypted payment.',全ての支払いは暗号化され、安全な128ビットSSL暗号化技術によって処理されます
+Checkout,required_fields_description,'required',必須
+Checkout,optional_fields_description,'optional',任意
+Checkout,required_field_empty,'Cannot be blank',Cannot be blank
+Checkout,mobile_pay_authorized_message,'Almost done! Complete your order by clicking the button below.',ほぼ完了しました。下記のボタンをクリックして注文を完了して下さい。
+Checkout,email_error_default,'The email you entered is invalid.',入力されたメールアドレスは無効です
+Checkout,email_error_misspelled_gmail,'Did you mean "gmail"?',gmailになっていますか？
+Checkout,email_error_misspelled_com,'Did you mean ".com"?',.comになっていますか？
+Checkout,email_error_no_tld,'Did you forget something? Most email addresses have a ".", like in ".com".',何かお忘れではありませんか？ほとんどのメールアドレスには「.com」のように「.」が付きます。
+Checkout,email_error_dismiss,'Dismiss',やめる
+Checkout,your_order_id,'Your order ID:',あなたの注文 ID:
+Checkout,receive_confirmation_at,'You will shortly receive an email confirmation at',すぐに確認メールが届きます。
+Checkout,password_header,'One last step',最後のステップ…
+Checkout,password_instructions,'Please complete your account information to access %{course_name} in the future.',今後%{course_name}にアクセスするには、アカウント情報を入力してください。
+Checkout,password_instructions_without_course_name,'Please complete your account information to access your purchase in the future.',Please complete your account information to access your purchase in the future.
+Checkout,password_submit,'Create Account',アカウントを作成する
+Checkout,confirm_location,'Confirm Your Billing Location',請求先を確認して下さい
+Checkout,account_information,'Contact Information',お問い合わせ先
+Checkout,student_login_description,'Use this account to access materials and services related to your purchase.',このアカウントを使用して、お客様の購入に関連する資料やサービスにアクセスすること
+Checkout,estimated_tax_label,'Est. tax',Est. tax
+Checkout,plus_tax_hint,'plus tax',plus tax
+Checkout,estimated_tax_tooltip_details,'The estimated sales tax will be added to the order summary after you provide a delivery address. The listed sales tax on checkout is only an estimate. Your invoice will contain the final sales tax.',推定消費税は、お客様が配送先住所を入力した後、注文概要に追加されます。チェックアウト時に表示される税金はあくまでも概算です。領収書には最終的な税額が記載されます。
+Checkout,verified_email_school_account,'It looks like you already have a %{school_name} account.',あなたはすでに%{school_name}アカウントを持っているようです。
+Checkout,verified_email_teachable_account,'It looks like you already have a Teachable Account.',あなたはすでにTeachableアカウントを持っているようです。
+Checkout,not_you_use_different_email,'If this is not you, please use a different email address.',そうでない場合は、別のEメールアドレスを使用して下さい。
+Checkout,forgot_password_sentence,'If you forgot your password, %{link}.',パスワードを忘れた場合は、%{link}。
+Checkout,forgot_password_link_text,'Forgot password?',リセットするにはここをクリック
+Checkout,enter_password,'Enter password',パスワードを入力する
+Checkout,logged_in_as,'You are logged in as %{email}.',すでに %{email}でログインしています。
+Checkout,save_payment_details_for_future,'Save my billing info for future purchases',今後の購入のためにカード情報を保存しておく
+Checkout,save_payment_details_learn_more,'Learn More',もっと詳しく知る
+Checkout,wait_title,'Hang tight! We're processing your payment.',支払いを処理しています。
+Checkout,wait_title_retry,'Hey! You already have an order in progress.',既に注文が進行中です。
+Checkout,wait_message,'This may take up to 30 seconds.',最大30秒かかります。
+Checkout,new_device_title,'We don't recognize this device.',このデバイスでは認識できません。
+Checkout,new_device_body,'Check your email for instructions to authorize this device and complete your purchase.',このデバイスを認証して購入を完了する手順については、メールを確認して下さい。
+Checkout,coupon_frequency_first,'First Payment',初回のお支払い
+Checkout,coupon_frequency_all,'All Payments',すべてのお支払い
+Checkout,purchase_form_disclaimer,'This is a subscription product billed on a monthly basis until you cancel. Cancel anytime from the account management page.',本製品は、解約するまで月単位で請求されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
+Checkout,purchase_form_disclaimer_quarterly,'This is a subscription product billed on a quarterly basis until you cancel. Cancel anytime from the account management page.',本製品は、解約するまで四半期ごとに請求されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
+Checkout,purchase_form_disclaimer_semiannually,'This is a subscription product billed on a semi-annual basis until you cancel. Cancel anytime from the account management page.',本製品は、解約するまで半年ごとに課金されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
+Checkout,purchase_form_disclaimer_yearly,'This is a subscription product billed on a yearly basis until you cancel. Cancel anytime from the account management page.',本製品は、解約するまで1年ごとに課金されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
+Checkout,purchase_form_disclaimer_weekly,'This is a subscription product billed on a weekly basis until you cancel. Cancel anytime from the account management page.',本製品は、解約するまで週ごとに課金されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
+Checkout,purchase_form_disclaimer_biweekly,'This is a subscription product billed on a biweekly basis until you cancel. Cancel anytime from the account management page.',本製品は、解約するまで隔週ごとに課金されるサブスクリプション製品です。解約はアカウント管理ページからいつでも可能です。
+Checkout,purchase_form_vat_school_disclaimer,'Contact %{school_name} for more info.',詳細は %{school_name} へお問い合わせください。
+Checkout,purchase_form_vat_owner_disclaimer,'Contact %{school_owner} at %{school_name} for more info.',詳細は %{school_name} の %{school_owner} へお問い合わせください。
+Checkout,address_verification_error,'There was an issue verifying your address. Please review the entered info for accuracy.',あなたの住所の確認に問題が発生しました。入力した情報が正しいかどうか確認してください。
+Checkout,enrollment_cap_error,'Sorry, this item has sold out.',Sorry, this item has sold out.
+Checkout,enrollment_cap_remaining_seats,'Only %{enroll_count} left',Only %{enroll_count} left
+Checkout,referral_existing_student,'Referral coupon is for new students only.',Referral coupon is for new students only.
+Creator Checkout,new_device_sign_in,'One more thing, we need to confirm this device. Please enter the code in the email we sent you.',ご本人であることを確認するために、送信メールに記載されているコードを入力してください。
+Courses,watch_promo_button,'Watch Promo',プロモーションビデオを見る
+Courses,your_instructor,'Your Instructor',インストラクター
+Courses,get_started,'Get Started Now',↓下記をクリック↓
+Courses,faq_title,'Frequently Asked Questions',よくある質問
+Courses,curriculum,'Course Curriculum',コースカリキュラム
+Courses,search_prompt,'Find a product',コースを探す
+Courses,off_original_price,'off original price!',通常価格より割引されます！
+Courses,applied_at_checkout,'(coupon will be applied at checkout)',（クーポンはチェックアウト時に適用されます）
+Courses,included_with_purchase,'Courses Included with Purchase',同時に受講可能になるコース
+Courses,included_courses,'Included Courses',含まれているコース
+Courses,included_products,'Included Products',含まれている製品
+Courses,bundle_size,'Course Bundle',セットコース
+Courses,original_price,'Original Price',通常価格
+Courses,originally_valued_at,'Originally valued at',もともとは
+Courses,lecture_list_preview,'Preview',プレビュー
+Courses,lecture_list_complete,'Complete',コンプリート
+Courses,lecture_list_start,'Start',開始
+Courses,lecture_list_review,'Review',レビュー
+Courses,start_next_lecture,'Start next lecture',次のレクチャーに進む
+Courses,start_lesson,'Start Lesson',レッスン開始
+Courses,next_lesson,'Next Lesson',次のレッスン
+Courses,progress_bar_header,'Progress',進捗
+Courses,complete_summary,'%{completed} / %{total} complete',%{completed} / %{total} 達成
+Courses,all_lessons_completed,'All lessons have been completed.',すべてのレッスンが完了
+Courses,you_can_review,'You can review the materials at any point.',教材はいつでも見直すことができます。
+Courses,sign_in_to_view_courses,'Please Log in or Sign Up to View Your Courses',コースを見るためにログインまたはサインアップしてください。
+Courses,cta_before_count,'Join',参加する。
+Courses,tax_exclusive_disclaimer,'Plus tax where applicable.',加えて税金がかかる場合もあります。
+Courses,tax_inclusive_disclaimer,'Local tax included where applicable.',必要に応じて現地の税金が含まれます。
+Courses,cta_after_count,'others and get started now!',他の人と今すぐ始めよう！
+Courses,cta_no_count,'Get started now!',↓下記をクリック↓
+Courses,preenrollment_success,'Thanks! We'll be in touch.',ありがとうございます。
+Courses,preenrollment_failure,'Please check your email address.',メールアドレスをご確認ください。
+Courses,category_filter,'Category:',カテゴリー:
+Courses,author_filter,'Author:',講師:
+Courses,all_filter,'All',すべて
+Courses,no_products,'This course is closed for enrollment.',このバンドルは購入することはできません。
+Courses,enroll,'Enroll',【受講する】
+Courses,search_button,'<i class='fa fa-search' title='Search'></i>',"<i class=""fa fa-search""></i>"
+Courses,available_in,'Available in',公開まで、あと
+Courses,after_you_enroll,'after you enroll',受講後
+Courses,days,'days',日
+Courses,already_enrolled,'You are already enrolled in this course. Click here to view it &rarr;',すでにこのコースを受講しています。こちらをチェックしてください。 →
+Courses,certificate,'Certificate',証明書
+Courses,certificate_download,'Download',ダウンロード
+Courses,certificate_modal_title,'Congratulations on completing %{course_name}!',おめでとうございます！%{course_name}を完了しました。
+Courses,certificate_download_info,'Get a copy of your certificate',証明書の発行
+Courses,available_until,'Available until',Available until
+Courses,available_until_info,'You purchased this course on %{purchase_date} and have until %{expiration_date} to access all the content.',あなたはこのコースを%{purchase_date}に購入し、%{expiration_date}まですべてのコンテンツにアクセスすることができます。
+Lectures,list_title,'All Lectures',All Lectures
+Lectures,contents,'Lecture Contents',バンドルコンテンツ
+Lectures,previous_button,'Previous Lecture',Previous Lecture
+Lectures,complete_button,'Complete and Continue',Complete and Continue
+Lectures,attachments,'Lecture Attachments',Lecture Attachments
+Lectures,content_locked,'Lecture content locked',Lecture content locked
+Lectures,content_locked_drip,'Lecture content will become available in',Lecture content will become available in
+Lectures,if_you_are_enrolled,'If you're already enrolled, ',If you're already enrolled, 
+Lectures,you_will_need_to_login,'you'll need to login',you'll need to login
+Lectures,enroll_in_course_to_unlock,'Enroll in Course to Unlock',Enroll in Course to Unlock
+Lectures,go_to_last_lesson,'Go to last lesson',Go to last lesson
+Lectures,download,'Download',Download
+Lectures,setting_autoplay,'Autoplay',Autoplay
+Lectures,setting_autocomplete,'Autocomplete',Autocomplete
+Lectures,setting_playbackspeed,'Speed',Speed
+Lectures,view_lecture,'View lecture',View lecture
+Lectures,content_progress_locked_title,'Lecture Content Locked',Lecture Content Locked
+Lectures,content_progress_locked_description,'You have a previous lesson that has not been completed.',You have a previous lesson that has not been completed.
+Lectures,content_progress_locked_drip_guide,'Until then, complete the last lesson you left off on.',Until then, complete the last lesson you left off on.
+Lectures,content_progress_locked_tooltip,'You must complete all lecture material before progressing.',You must complete all lecture material before progressing.
+Lectures,video_content_progress_locked_tooltip,'90% of each video must be completed. You have completed %{progress_completed} of the current video.',90% of each video must be completed. You have completed %{progress_completed} of the current video.
+Referral Program,referral_block_button,'Learn more',Learn more
+Referral Program,referral_page_header,'Refer a friend',Refer a friend
+Referral Program,earned_rewards_header,'Your earned rewards',Your earned rewards
+Referral Program,earned_rewards_description,'Once a friend uses your referral link, you will receive a reward discount code to use on a future purchase in this school.',Once a friend uses your referral link, you will receive a reward discount code to use on a future purchase in this school.
+Referral Program,referral_discount,'Discount',Discount
+Referral Program,referral_code,'Code',Code
+Referral Program,no_earned_rewards,'No rewards yet',No rewards yet
+Creator Product,no_products,'This coaching is not available for purchase.',This coaching is not available for purchase.
+Creator Product,schedule_button,'Go to my service',Go to my service
+Comments,post_title,'Post a comment',Post a comment
+Comments,post_placeholder,'Leave a comment...',Leave a comment...
+Comments,post_success,'Your comment was posted.',Your comment was posted.
+Comments,post_moderation,'Your comment was posted, but it needs to be approved by the school owner before it shows up.',Your comment was posted, but it needs to be approved by the school owner before it shows up.
+Comments,post_fail,'Sorry, your comment could not be posted at this time :(',Sorry, your comment could not be posted at this time :(
+Comments,post_comment,'Post Comment',Post Comment
+Comments,save_comment,'Save Comment',Save Comment
+Comments,view_comment,'View comment',View comment
+Comments,reply,'Reply',Reply
+Comments,ago,'ago',ago
+Comments,now,'now',now
+Comments,instructor,'Instructor',Instructor
+Comments,awaiting_review,'Awaiting Review',Awaiting Review
+Comments,comments,'comments',comments
+Comments,notifications_participating_thread,'Notify me when someone comments on a discussion I've commented in.',Notify me when someone comments on a discussion I've commented in.
+Comments,notifications_responses,'Notify me when someone responds to my comments.',Notify me when someone responds to my comments.
+Comments,notifications_author,'Notify me when someone comments in one of my courses.',Notify me when someone comments in one of my courses.
+Comments,has_been_removed,'This comment has been removed.',This comment has been removed.
+Comments,add_image,'Add Image',Add Image
+Comments,view_thread,'View the rest of this thread',View the rest of this thread
+Comments,approve,'Approve',Approve
+Comments,edit,'Edit',Edit
+Comments,delete,'Delete',Delete
+Comments,permalink,'Link',Link
+Comments,load_more,'Load more',Load more
+Comments,add_text_error,'Please add text to the comment.',Please add text to the comment.
+Comments,comment_responses_email,'Email me when someone responds to my comments.',Email me when someone responds to my comments.
+Comments,comment_discussion_email,'Email me when someone comments on a discussion I've commented in.',Email me when someone comments on a discussion I've commented in.
+Product Collection,no_products,'This bundle is not available for purchase.',This bundle is not available for purchase.
+Product Collection,contents,'Bundle contents',Bundle contents
+Common,enroll_in,'Enroll in',Enroll in
+Common,enroll_in_course,'Enroll in Course',Enroll in Course
+Common,enroll_in_course_for,'Enroll in Course for',Enroll in Course for
+Common,finalize_enrollment,'Finalize & Enroll',Finalize &amp; Enroll
+Common,hide,'Hide',Hide
+Common,toggle_nav,'Toggle navigation',Toggle navigation
+Common,terms,'Terms of Use',fdsafdsaf 
+Common,privacy_policy,'Privacy Policy',Privacy Policy
+Common,free,'FREE',FREE
+Common,price,'Price',Price
+Common,course,'Course',Course
+Common,creator_product,'Coaching',Coaching
+Common,product_collection,'Bundle',バンドル
+Common,manage_subscriptions,'Manage Subscriptions',Manage Subscriptions
+Common,cancel_subscription,'Cancel Subscription',Cancel Subscription
+Common,edit_profile,'Edit Profile',Edit Profile
+Common,remove,'Remove',Remove
+Common,setup,'Set-up',Set-up
+Common,my_courses_link,'My Courses',My Courses
+Common,add_change_credit_card,'Add / Change Credit Card',Add / Change Credit Card
+Common,address,'Address',Address
+Common,security,'Security',Security
+Common,contact_school,'Contact',Contact
+Common,refer_a_friend,'Refer a friend',Refer a friend
+Common,message,'Message',Message
+Common,update_billing_info,'Update billing info',Update billing info
+Common,powered_by,'Powered by',Powered by
+Common,course_percent_complete,'COMPLETE',COMPLETE
+Common,per_month,'/month',/month
+Common,applied_to_first,'applied to first payment',applied to first payment
+Common,applied_to_all,'applied to all payments',applied to all payments
+Common,every,'every',every
+Common,for_the_first,'for the first',for the first
+Common,then,'then',then
+Common,payment,'payment',payment
+Common,month,'month',month
+Common,week,'week',week
+Common,year,'year',year
+Common,weeks,'weeks',weeks
+Common,months,'months',months
+Common,per_year,'/year',/year
+Common,per_week,'/week',/week
+Common,number_of_payments,'payments of',payments of
+Common,free_trial_length,'day free trial',day free trial
+Common,or,'or',or
+Common,processing,'Processing...',Processing...
+Common,description,'Discussion',Discussion
+Common,view_admin_dashboard,'View Admin Dashboard',View Admin Dashboard
+Homepage,page_title,'Home',Home
+Homepage,featured_courses,'Featured Courses',Featured Courses
+Homepage,featured_course,'Featured Course',Featured Course
+Homepage,view_all_courses,'View All Products',View All Products
+Homepage,further_questions,'Any further questions before signing up?',Any further questions before signing up?
+Homepage,email_us,'Email us.',Email us.
+Homepage,enroll_button_string,'Enroll now',Enroll now
+Homepage,welcome_to,'Welcome to',Welcome to
+Homepage,launching_soon,'Launching Soon',Launching Soon
+Homepage,school_not_published,'This school isn't published right now.',This school isn't published right now.
+Homepage,school_not_published_memo,'If you previously purchased a course from this school, you can login if you wish to contact the owner or view your transaction history.',If you previously purchased a course from this school, you can login if you wish to contact the owner or view your transaction history.
+Error Pages,unpublished_lecture,'Whoops! This lecture hasn't been published yet',Whoops! This lecture hasn't been published yet
+Error Pages,unauthorized,'You are unauthorized. Please try logging in or authorizing your request.',You are unauthorized. Please try logging in or authorizing your request.
+Error Pages,forbidden,'You can't do that!',You can't do that!
+Error Pages,not_found,'Sorry, we couldn't find that page',Sorry, we couldn't find that page
+Error Pages,archived_product,'Sorry, this %{product_type} is closed for enrollment.',Sorry, this %{product_type} is closed for enrollment.
+Error Pages,back_to_homepage,'Back to homepage',Back to homepage
+Error Pages,broken,'Our apologies! Our system encountered an error -- we're investigating!',Our apologies! Our system encountered an error -- we're investigating!
+Error Pages,bad_request,'Our apologies! We were unable to process your request',Our apologies! We were unable to process your request
+Accounts,welcome_back,'Welcome back to',Welcome back to
+Accounts,not_yet_enrolled,'Not yet a student?',Not yet a student?
+Accounts,sign_up,'Sign Up',Sign Up
+Accounts,done,'Finish',Finish
+Accounts,already_enrolled,'Already signed up?',Already signed up?
+Accounts,already_have_teachable_account,'Already have an account?',Already have an account?
+Accounts,dont_have_teachable_account,'Don't have an account?',Don't have an account?
+Accounts,no_account,'Don't have an account?',Don't have an account?
+Accounts,log_in,'Log In',Log In
+Accounts,log_in_to_enroll,'Log in to Enroll',Log in to Enroll
+Accounts,log_in_with_teachable,'Log in with myTeachable',Log in with myTeachable
+Accounts,log_in_with_teachable_variant,'Log in with Teachable',Log in with Teachable
+Accounts,create_teachable_account,'Create Account',Create Account
+Accounts,create_a_teachable_account,'Create a Teachable Account',Create a Teachable Account
+Accounts,a_teachable_account,'a myTeachable Account',a myTeachable Account
+Accounts,create_school_account,'Create an Account',Create an Account
+Accounts,log_into_my_teachable,'Log in to Teachable',Log in to Teachable
+Accounts,log_into_my_teachable_to_connect,'Log in to myTeachable to connect account',Log in to myTeachable to connect account
+Accounts,no_thanks_back_to_school,'No Thanks, Go Back to School',No Thanks, Go Back to School
+Accounts,no_thanks_log_out,'No Thanks, I'd Like to Log Out',No Thanks, I'd Like to Log Out
+Accounts,with_my_teachable,'with myTeachable',with myTeachable
+Accounts,continue,'Continue',Continue
+Accounts,continue_as,'Continue as',Continue as
+Accounts,continue_disclaimer,'By proceeding, you will grant this school access to your basic myTeachable Account information.',By proceeding, you will grant this school access to your basic myTeachable Account information.
+Accounts,continue_unconfirmed_alert,'Please check your email and click on the confirmation link to continue with this account.',Please check your email and click on the confirmation link to continue with this account.
+Accounts,new_account_link,'Create New Account',Create New Account
+Accounts,login_link,'Log in to Account',Log in to Account
+Accounts,log_in_with_school_account,'Log in with a School Account',Log in with a School Account
+Accounts,forgot_password_link,'Forgot Password?',Forgot Password?
+Accounts,set_a_password,'Set a Password',Set a Password
+Accounts,use_account_to_access,'In the future, you can use this account to access',In the future, you can use this account to access
+Accounts,sign_up_header,'Sign Up to',Sign Up to
+Accounts,sign_up_for,'Sign Up for',Sign Up for
+Accounts,login_to,'Log in to',Log in to
+Accounts,full_name,'Full Name',Full Name
+Accounts,name,'Name',Name
+Accounts,name_placeholder,'John Doe',John Doe
+Accounts,email,'Email Address',Email Address
+Accounts,email_placeholder,'name@example.com',name@example.com
+Accounts,password,'Password',パスワード
+Accounts,new_password_placeholder,'password',パスワード
+Accounts,profile_image,'Profile Image',Profile Image
+Accounts,profile_image_change,'We use <a href='http://en.gravatar.com/' target='_blank'>Gravatar.com</a> for our profile images. To set or change yours, <a href='http://en.gravatar.com/' target='_blank'>create a Gravatar account</a>.<br><br>',We use <a href="http://en.gravatar.com/" target="_blank">Gravatar.com</a> for our profile images. To set or change yours, <a href="http://en.gravatar.com/" target="_blank">create a Gravatar account</a>.<br><br>
+Accounts,new_profile_image_change,'We use <a href='http://en.gravatar.com/' target='_blank'>Gravatar.com</a> to set your profile images. To change your profile image, <a href='http://en.gravatar.com/' target='_blank'>create a Gravatar account</a>.<br><br>',We use <a href="http://en.gravatar.com/" target="_blank">Gravatar.com</a> to set your profile images. To change your profile image, <a href="http://en.gravatar.com/" target="_blank">create a Gravatar account</a>.<br><br>
+Accounts,enter_current_password,'To save changes, please enter your current password',To save changes, please enter your current password
+Accounts,new_password,'New password',New password
+Accounts,confirm_password,'Confirm Password',Confirm Password
+Accounts,reset_password,'Reset Password',Reset Password
+Accounts,reset_password_contextual,'Reset it',Reset it
+Accounts,reset_my_teachable_password,'Reset Your myTeachable Password',Reset Your myTeachable Password
+Accounts,update_profile,'Save Changes',Save Changes
+Accounts,forgot_password_header,'Forgot Your Password?',Forgot Your Password?
+Accounts,reset_password_instructions,'Send me instructions',Send me instructions
+Accounts,change_my_password,'Change My Password',Change My Password
+Accounts,email_disclaimer_header,'Your email is secure.',Your email is secure.
+Accounts,resend_confirmation,'Resend Confirmation Instructions',Resend Confirmation Instructions
+Accounts,email_disclaimer_details,'We will never share your email address with a third party.',We will never share your email address with a third party.
+Accounts,change_your_password_header,'Change Your Password',Change Your Password
+Accounts,allow_marketing_emails_pre,'Do not receive marketing emails from ',Do not receive marketing emails from 
+Accounts,allow_marketing_emails_post,'undefined',
+Accounts,allow_instructor_emails_pre,'I agree to receive instructional and promotional emails from ',I agree to receive instructional and promotional emails from 
+Accounts,allow_instructor_emails_post,'undefined',
+Accounts,allow_instructor_emails,'Receive instructional and promotional emails from %{school_name}.',Receive instructional and promotional emails from %{school_name}.
+Accounts,notification_preferences,'Notification Preferences',Notification Preferences
+Accounts,you_are_unsubscribed,'You are unsubscribed from all marketing emails',You are unsubscribed from all marketing emails
+Accounts,you_are_subscribed,'You are subscribed to all emails',You are subscribed to all emails
+Accounts,unsubscribe,'Click here to unsubscribe from all updates and new content emails',Click here to unsubscribe from all updates and new content emails
+Accounts,resubscribe,'Click here to resubscribe for occasional updates and new content notifications',Click here to resubscribe for occasional updates and new content notifications
+Accounts,must_agree_to_terms_error,'You must agree to the Terms of Use and Privacy Policy.',You must agree to the Terms of Use and Privacy Policy.
+Accounts,didnt_receive_confirmation,'Didn't receive confirmation instructions?',Didn't receive confirmation instructions?
+Accounts,agree_to_terms_teachable,'By continuing, you agree to Teachable's %{teachable_tou_link} & %{teachable_privacy_link} and %{school_name}'s %{school_tou_link} & %{school_privacy_link}.',By continuing, you agree to Teachable's %{teachable_tou_link} &amp; %{teachable_privacy_link} and %{school_name}'s %{school_tou_link} &amp; %{school_privacy_link}.
+Accounts,agree_to_terms,'By continuing, you agree to the %{school_tou_link} & %{school_privacy_link}.',By continuing, you agree to the %{school_tou_link} &amp; %{school_privacy_link}.
+Accounts,by_completing_this_purchase,'By completing this purchase, ',By completing this purchase, 
+Accounts,i_agree_to_the,'I agree to the',I agree to the
+Accounts,i_agree_to,'I agree to',I agree to
+Accounts,and,'and',and
+Accounts,ampersand,'&',&amp;
+Accounts,the,'the',the s
+Accounts,terms_of_use,'Terms of Use',Terms of Use 3
+Accounts,privacy_policy,'Privacy Policy',Privacy Policy
+Accounts,of_the_course_platform,'of the course platform.',of the course platform.
+Accounts,additional_opt_in_message,'undefined',
+Accounts,select_country,'Country',Country
+Accounts,invalid_email_or_password,'Your email or password is incorrect.',Your email or password is incorrect.
+Accounts,email_blank,'Email is required',Email is required
+Accounts,email_invalid,'Email is invalid',Email is invalid
+Accounts,email_too_long,'Email is too long',Email is too long
+Accounts,email_already_used,'Email is already in use. ',Email is already in use. 
+Accounts,email_already_used_link,'Please sign in to your account.',Please sign in to your account.
+Accounts,name_blank,'Name is required',Name is required
+Accounts,name_invalid_chars,'Name contains invalid characters',Name contains invalid characters
+Accounts,name_too_long,'Name is too long',Name is too long
+Accounts,password_blank,'Password is required',Password is required
+Accounts,password_too_short,'Password must be at least 6 characters',Password must be at least 6 characters
+Accounts,password_too_long,'Password is too long',Password is too long
+Accounts,password_confirmation_mismatch,'Password confirmation doesn't match Password',Password confirmation doesn't match Password
+Accounts,password_invalid_chars,'Password contains invalid characters',Password contains invalid characters
+Accounts,must_be_teachable,'cannot be true unless email is teachable.com',cannot be true unless email is teachable.com
+Accounts,sso_description_start,'Create a myTeachable Account to access courses on',Create a myTeachable Account to access courses on
+Accounts,sso_description_and,'and',and
+Accounts,sso_description_end,'thousands of other online schools.',thousands of other online schools.
+Accounts,sso_description_no_school,'Create a myTeachable Account to access thousands of online schools and courses.',Create a myTeachable Account to access thousands of online schools and courses.
+Accounts,your,'your',your
+Accounts,teachable_account,'myTeachable Account',myTeachable Account
+Accounts,error_message_header,'Oops! Please fix the following:',Oops! Please fix the following:
+Accounts,teachable_account_already_has_user,'This myTeachable Account is already connected to a user on this school. Please sign in.',This myTeachable Account is already connected to a user on this school. Please sign in.
+Accounts,authorize_oauth_error,'Could not authorize account. %{message}',Could not authorize account. %{message}
+Accounts,continue_with_myT,'Continue with myTeachable',Continue with myTeachable
+Accounts,remember_me,'Remember me',Remember me
+Accounts,confirmation_code_problem,'There was a problem with the confirmation code you provided. Please check the code or try signing in again.',There was a problem with the confirmation code you provided. Please check the code or try signing in again.
+Accounts,welcome_back_link_done,'This account is connected to an existing %{school_name} school account. By proceeding, we’ll log you in automatically.',This account is connected to an existing %{school_name} school account. By proceeding, we’ll log you in automatically.
+Accounts,welcome_back_link_show,'This myTeachable Account isn’t connected to your %{school_name} school account yet. By proceeding, we’ll automatically connect your %{school_name} school account with your myTeachable Account.',This myTeachable Account isn’t connected to your %{school_name} school account yet. By proceeding, we’ll automatically connect your %{school_name} school account with your myTeachable Account.
+Accounts,welcome_back_create_new,'By proceeding, we’ll automatically create a %{school_name} school account and connect it to your myTeachable Account.',By proceeding, we’ll automatically create a %{school_name} school account and connect it to your myTeachable Account.
+Accounts,oauth_access,'By allowing access, you agree to the following:',By allowing access, you agree to the following:
+Accounts,oauth_prompt,'%{client_name} is requesting access to your account with %{school_name}',%{client_name} is requesting access to your account with %{school_name}
+Accounts,oauth_able_to,'This will allow %{client_name} to:',This will allow %{client_name} to:
+Accounts,oauth_view_name,'View your first and last name',View your first and last name
+Accounts,oauth_view_email,'View your email address',View your email address
+Accounts,oauth_view_avatar,'View your profile image',View your profile image
+Accounts,oauth_button_deny,'Cancel',Cancel
+Accounts,oauth_button_authorize,'Authorize',Authorize
+Accounts,disconnect_from_oauth,'Disconnect %{school_name} from your myTeachable Account',Disconnect %{school_name} from your myTeachable Account
+Accounts,connect_to_oauth,'Connect %{school_name} to your myTeachable dashboard.',Connect %{school_name} to your myTeachable dashboard.
+Accounts,gdpr_updated_privacy_policy_header,'We've updated our Privacy Policy',We've updated our Privacy Policy
+Accounts,gdpr_updated_privacy_policy_text,'Effective May 25, 2018, we have updated our %{gdpr_updated_privacy_policy_link_text} in accordance with the European Union's General Data Protection Regulation (GDPR). Please read it carefully.',Effective May 25, 2018, we have updated our %{gdpr_updated_privacy_policy_link_text} in accordance with the European Union's General Data Protection Regulation (GDPR). Please read it carefully.
+Accounts,gdpr_updated_privacy_policy_link_text,'Privacy Policy',Privacy Policy
+Accounts,gdpr_updated_privacy_policy_consent,'I accept the new Privacy Policy',I accept the new Privacy Policy
+Accounts,ccpa_updated_privacy_policy_header,'We've updated our Privacy Policy',We've updated our Privacy Policy
+Accounts,ccpa_updated_privacy_policy_text,'We’ve updated our %{ccpa_updated_privacy_policy_link_text} and increased our transparency with a new Cookie Policy to reflect evolving best practices and an ongoing alignment with data privacy laws. To continue accessing our Platform, please confirm that you agree to our updated policies:',We’ve updated our %{ccpa_updated_privacy_policy_link_text} and increased our transparency with a new Cookie Policy to reflect evolving best practices and an ongoing alignment with data privacy laws. To continue accessing our Platform, please confirm that you agree to our updated policies:
+Accounts,ccpa_updated_tos_link_text,'Terms Of Service',Terms Of Service
+Accounts,ccpa_updated_privacy_policy_link_text,'Privacy Policy',Privacy Policy
+Accounts,ccpa_updated_cookie_policy_link_text,'Cookies Policy',Cookies Policy
+Accounts,ccpa_updated_privacy_policy_consent,'I accept the new policies',I accept the new policies
+Accounts,updated_terms_of_use_header_feb_21,'We’ve updated our annual Terms',We’ve updated our annual Terms
+Accounts,updated_terms_of_use_text_feb_21,'We’ve completed our annual Terms refresh to ensure that our Terms are clear and aligned with evolving best practices. To continue accessing our Platform, please confirm that you agree to our updated Terms:',We’ve completed our annual Terms refresh to ensure that our Terms are clear and aligned with evolving best practices. To continue accessing our Platform, please confirm that you agree to our updated Terms:
+Accounts,updated_tou_link_text_feb_21,'Teachable's Terms of Use',Teachable's Terms of Use
+Accounts,updated_privacy_policy_link_text_feb_21,'Teachable's Privacy Policy',Teachable's Privacy Policy
+Accounts,updated_terms_of_use_consent_feb_21,'I accept the updated Terms above',I accept the updated Terms above
+Accounts,new_terms_of_use_header,'Welcome to %{school_name}',Welcome to %{school_name}
+Accounts,new_terms_of_use_text,'We’re so excited you’re here. Before moving forward, please read and accept the Terms of Use and Privacy Policy.',We’re so excited you’re here. Before moving forward, please read and accept the Terms of Use and Privacy Policy.
+Accounts,new_terms_of_use_consent,'Continue',Continue
+Accounts,update_user_street_addresses_header,'Please update your address information',Please update your address information
+Accounts,update_user_street_addresses_text,'We need you to update your address information so that our systems accurately reflect where you’re located. Please check out our %{ccpa_updated_privacy_policy_link_text} for more information about how Teachable handles personal information. ',We need you to update your address information so that our systems accurately reflect where you’re located. Please check out our %{ccpa_updated_privacy_policy_link_text} for more information about how Teachable handles personal information. 
+Accounts,update_user_street_addresses_canadian_province_text,'Our records show that one or more of your saved addresses is located within Canada but does not have a province or region specified.',Our records show that one or more of your saved addresses is located within Canada but does not have a province or region specified.
+Accounts,update_user_street_addresses_link_text,'Add address',Add address
+Accounts,unconfirmed_email_banner,'Please confirm your email to fully activate your account. You can do this by clicking the link in the email confirmation we sent you.',Please confirm your email to fully activate your account. You can do this by clicking the link in the email confirmation we sent you.
+Accounts,resend_confirmation_email,'Resend email',Resend email
+Identity,continue,'Continue',Continue
+Identity,verify,'Verify',Verify
+Identity,confirm,'Confirm',Confirm
+Identity,technical_error,'There has been a technical error %{action}. Please try again later. (error code %{error_code})',There has been a technical error %{action}. Please try again later. (error code %{error_code})
+Identity,recaptcha_invalid,'Your reCAPTCHA was invalid. Please try again.',Your reCAPTCHA was invalid. Please try again.
+Identity,all_fields_required,'Please fill in all the fields.',Please fill in all the fields.
+Identity,login,'Log in',ログイン
+Identity,sign_up,'Sign Up',サインアップ
+Identity,password_validation,'A password must use at least 6 characters.',A password must use at least 6 characters.
+Identity,signup,'Sign up',サインアップ
+Identity,full_name,'Full Name',お名前
+Identity,email,'Email',Email
+Identity,password,'Password',パスワード
+Identity,remember_me,'Remember Me',Remember Me
+Identity,forgot_password,'Forgot Password',Forgot Password
+Identity,no_account,'Need an account?',Need an account?
+Identity,allow_marketing_emails,'I agree to receive promotional and instructional emails from %{school_name}',I agree to receive promotional and instructional emails from %{school_name}
+Identity,email_already_used,'Email is already in use. Please log in to your account.',Email is already in use. Please log in to your account.
+Identity,login_action,'logging you in',logging you in
+Identity,sign_up_action,'signing you up',signing you up
+Identity,agree_to_terms,'By signing up, I agree to %{school_name}'s %{terms_of_use_link} & %{privacy_policy_link}, and the %{teachable_terms_of_use_link} & %{teachable_privacy_policy_link} of the learning platform.',By signing up, I agree to %{school_name}'s %{terms_of_use_link} &amp; %{privacy_policy_link}, and the %{teachable_terms_of_use_link} &amp; %{teachable_privacy_policy_link} of the learning platform.
+Identity,terms_of_use,'Terms of Use',Terms of Use
+Identity,privacy_policy,'Privacy Policy',Privacy Policy
+Identity,login_with_teachable,'Log in with Teachable',Log in with Teachable
+Identity,login_with_google,'Log in with Google',Log in with Google
+Identity,sign_up_with_email,'Sign up with email',Sign up with email
+Identity,sign_up_with_teachable,'Continue with Teachable',Continue with Teachable
+Identity,sign_up_with_google,'Continue with Google',Continue with Google
+Identity,invalid_email_or_password,'Your email or password is incorrect.',Your email or password is incorrect.
+Identity,teachable_account_password_notice,'You previously accessed this school using your Teachable Account. To continue, please use the “Login with Teachable” option, or set a password by clicking the “Forgot Password” link below.',You previously accessed this school using your Teachable Account. To continue, please use the “Login with Teachable” option, or set a password by clicking the “Forgot Password” link below.
+Identity,device_confirmation_incorrect,'Your code is invalid. Please try again.',Your code is invalid. Please try again.
+Identity,device_confirmation_expired,'The device confirmation code has expired. Please try logging in again.',The device confirmation code has expired. Please try logging in again.
+Identity,device_confirmation_rate_limit_exceeded,'You are doing this too fast. Please slow down.',You are doing this too fast. Please slow down.
+Identity,device_confirmation_resend_help,'If you don't see the email, check your junk, spam, social, or other folders. If you still don’t see the email, you can %{link}.',If you don't see the email, check your junk, spam, social, or other folders. If you still don’t see the email, you can %{link}.
+Identity,device_confirmation_resend_link,'resend the confirmation code',resend the confirmation code
+Identity,device_confirmation_resent,'We have resent the device confirmation code.',We have resent the device confirmation code.
+Identity,device_confirmation_action,'confirming your device',confirming your device
+Identity,auth_app_authentication_title,'Enter authentication code',Enter authentication code
+Identity,auth_app_authentication_instruction,'Enter the 6-digit verification code generated by the two-factor authentication app on your mobile device.',Enter the 6-digit verification code generated by the two-factor authentication app on your mobile device.
+Identity,auth_app_authentication_code_label,'6-digit authentication code',6-digit authentication code
+Identity,auth_app_authentication_help,'Having problems verifying?',Having problems verifying?
+Identity,auth_app_authentication_help_link,'Use a recovery code',Use a recovery code
+Identity,use_recovery_code_title,'Enter recovery code',Enter recovery code
+Identity,use_recovery_code_instruction,'If you are unable to access your mobile device, enter one of your recovery codes to verify your identity.',If you are unable to access your mobile device, enter one of your recovery codes to verify your identity.
+Identity,use_recovery_code_code_label,'Recovery code',Recovery code
+Identity,use_recovery_code_help,'Are you locked out?',Are you locked out?
+Identity,use_recovery_code_help_link,'Learn how to recover your account',Learn how to recover your account
+Identity,login_with_teachable_to_sign_up,'Login to your Teachable Account to sign up for %{school_name}',Login to your Teachable Account to sign up for %{school_name}
+Identity,use_teachable_to_login,'Use your Teachable Account to login to %{school_name}',Use your Teachable Account to login to %{school_name}
+Identity,teachable_account_linked,'Teachable account successfully linked.',Teachable account successfully linked.
+Identity,teachable_account_not_authorized_by_user,'Teachable accounts not linked. To link it you need to authorize Teachable accounts.',Teachable accounts not linked. To link it you need to authorize Teachable accounts.
+Identity,authorized_as_different_user,'You're already logged in with a different account. Please log out first, if you want to login as someone else.',You're already logged in with a different account. Please log out first, if you want to login as someone else.
+Identity,teachable_account_not_authorized,'You can't use your Teachable Account without authorizing %{school_name} to read your profile information. If you still wish to use your Teachable Account, you can try again.',You can't use your Teachable Account without authorizing %{school_name} to read your profile information. If you still wish to use your Teachable Account, you can try again.
+Identity,teachable_account_technical_error,'There has been a technical error while interacting with your Teachable Account. Please try again later. (error code %{error_code})',There has been a technical error while interacting with your Teachable Account. Please try again later. (error code %{error_code})
+Identity,teachable_account_not_linked_error,'Looks like you haven't linked that account yet.',Looks like you haven't linked that account yet.
+Identity,teachable_account_not_linked_email_taken,'This Teachable Account is not linked to %{school_name}. Use your email and password below to log in and link your Teachable Account to this school. If you cannot remember your password, you can reset it by clicking "forgot password".',This Teachable Account is not linked to %{school_name}. Use your email and password below to log in and link your Teachable Account to this school. If you cannot remember your password, you can reset it by clicking "forgot password".
+Identity,teachable_account_not_linked_with_sign_up,'This Teachable Account is not linked to %{school_name}. Please try a different Teachable Account or sign up below. Not sure if you have an account? Check your inbox for a confirmation email.',This Teachable Account is not linked to %{school_name}. Please try a different Teachable Account or sign up below. Not sure if you have an account? Check your inbox for a confirmation email.
+Identity,teachable_account_not_linked_without_sign_up,'This Teachable Account is not linked to %{school_name}. If you believe you have an account, please try a different login — or you can create one after you make a purchase in this school. Not sure if you have an account? Check your inbox for a confirmation email.',This Teachable Account is not linked to %{school_name}. If you believe you have an account, please try a different login — or you can create one after you make a purchase in this school. Not sure if you have an account? Check your inbox for a confirmation email.
+Identity,teachable_account_linked_to_different_user,'This Teachable Account is already linked to a different account on %{school_name}. If you wish to link it to this account, you need to login to the other account first and unlink it.',This Teachable Account is already linked to a different account on %{school_name}. If you wish to link it to this account, you need to login to the other account first and unlink it.
+Identity,user_linked_to_different_teachable_account,'Your account on %{school_name} is already linked to a Teachable Account. You first have to unlink it before continuing.',Your account on %{school_name} is already linked to a Teachable Account. You first have to unlink it before continuing.
+Identity,google_account_linked_to_different_user,'Your Google Account is already linked to a different account on %{school_name}. If you wish to link it to this account, you need to login to the other account first and unlink it.',Your Google Account is already linked to a different account on %{school_name}. If you wish to link it to this account, you need to login to the other account first and unlink it.
+Identity,google_account_technical_error,'There has been a technical error while interacting with your Google Account. Please try again later. (error code %{error_code})',There has been a technical error while interacting with your Google Account. Please try again later. (error code %{error_code})
+Identity,disconnect_header,'To disconnect, you first need to set a password',To disconnect, you first need to set a password
+Identity,disconnect_submit,'Disconnect',Disconnect
+Identity,disconnect_cancel,'Cancel',Cancel
+Identity,disconnect_password_error,'Passwords do not match. Please try again.',Passwords do not match. Please try again.
+Identity,unlink_submit,'Unlink',Unlink
+Identity,set_password_header,'Set a Password',Set a Password
+Identity,set_password_button,'Continue',Continue
+Identity,set_password_description,'In the future, you can use this account to access %{school_name}',In the future, you can use this account to access %{school_name}
+Identity,forgot_password_header,'Reset Password',Reset Password
+Identity,forgot_password_intro,'Reset your password by providing your account email below.',Reset your password by providing your account email below.
+Identity,forgot_password_submit,'Next',Next
+Identity,forgot_password_check_email_header,'Check your email',Check your email
+Identity,forgot_password_check_email_intro,'You'll receive a link in the email you supplied that will enable you to reset your account password.',You'll receive a link in the email you supplied that will enable you to reset your account password.
+Identity,forgot_password_check_email_check_spam,'If you don't see the email, check other places it might be, like your junk, spam, social, or other folders.',If you don't see the email, check other places it might be, like your junk, spam, social, or other folders.
+Identity,forgot_password_check_email_resend_button,'Resend Email',Resend Email
+Identity,forgot_password_check_email_sent,'Email sent',Email sent
+Identity,forgot_password_link_expired,'This link has expired. Please request a new one with the form below.',This link has expired. Please request a new one with the form below.
+Identity,reset_password_header,'Reset Your Password',Reset Your Password
+Identity,reset_password_intro,'Strong passwords include numbers, letters, and punctuation marks.',Strong passwords include numbers, letters, and punctuation marks.
+Identity,reset_password_submit,'Reset Password',Reset Password
+Identity,reset_password_input,'Enter new password',Enter new password
+Identity,reset_password_input_confirmation,'Confirm new password',Confirm new password
+Identity,reset_password_success,'Your password has been reset.',Your password has been reset.
+Identity,reset_password_error,'An error occurred while resetting your password',An error occurred while resetting your password
+Identity,invalid_authorization,'This application is not registered with this school. Contact your school administrator for more information.',This application is not registered with this school. Contact your school administrator for more information.
+Identity,account_detection_description,'Looks like you have an existing account with us!',Looks like you have an existing account with us!
+Identity,account_detection_description_footer,'Login to finish your purchase.',Login to finish your purchase.
+Teachable Account Convert Modal,convert_modal_title,'One last thing... please complete setting up your account by connecting it with a Teachable Account.',One last thing... please complete setting up your account by connecting it with a Teachable Account.
+Teachable Account Convert Modal,convert_modal_description,'A Teachable Account allows you to use a single, centralized account to access hundreds of online schools. Once you log in or create a Teachable Account, we'll associate your existing course enrollments on this school with your new account.',A Teachable Account allows you to use a single, centralized account to access hundreds of online schools. Once you log in or create a Teachable Account, we'll associate your existing course enrollments on this school with your new account.
+Teachable Account Convert Modal,convert_modal_learn_more,'Learn more',Learn more
+Teachable Account Convert Modal,convert_modal_login,'I have an existing Teachable Account',I have an existing Teachable Account
+Teachable Account Convert Modal,convert_modal_signup,'Create a Teachable Account',Create a Teachable Account
+Manage Subscriptions,title,'Your Active Subscriptions',Your Active Subscriptions
+Manage Subscriptions,course_name,'Course Name',Course Name
+Manage Subscriptions,recurring_price,'Recurring Price',Recurring Price
+Manage Subscriptions,enrollment_time,'Time of Enrollment',Time of Enrollment
+Manage Subscriptions,actions,'Actions',Actions
+Manage Subscriptions,cancel_prompt,'Are you sure?',Are you sure?
+Manage Subscriptions,cancel_text,'Cancel',Cancel
+Manage Subscriptions,cancelled_text,'This subscription has been cancelled and will terminate at the end of your current billing period',This subscription has been cancelled and will terminate at the end of your current billing period
+Manage Subscriptions,not_billed_again,'You will not be billed again.',You will not be billed again.
+Manage Subscriptions,renews,'Renews',Renews
+Manage Subscriptions,weekly,'Weekly subscription',Weekly subscription
+Manage Subscriptions,biweekly,'Biweekly subscription',Biweekly subscription
+Manage Subscriptions,monthly,'Monthly subscription',Monthly subscription
+Manage Subscriptions,quarterly,'Quarterly subscription',Quarterly subscription
+Manage Subscriptions,semiannual,'Semiannual subscription',Semiannual subscription
+Manage Subscriptions,annual,'Annual subscription',Annual subscription
+Credit Card,card_on_file,'Card on file:',Card on file:
+Credit Card,justification,'You must keep a card on file as long as you have an active subscription or payment plan.',You must keep a card on file as long as you have an active subscription or payment plan.
+Credit Card,remove,'Remove card',Remove card
+Credit Card,removed_message,'Card removed successfully',Card removed successfully
+Credit Card,saved_messaged,'Card added successfully',Card added successfully
+Credit Card,default_error,'Something went wrong, please refresh and try again.',Something went wrong, please refresh and try again.
+Credit Card,save,'Update Credit Card',Update Credit Card
+Credit Card,card_name_label,'Name on Card',Name on Card
+Credit Card,card_name_placeholder,'Emily J Smith',Emily J Smith
+Credit Card,card_number_label,'Card Number',Card Number
+Credit Card,expiration_label,'Expiration Date',Expiration Date
+Credit Card,cvc_label,'CVC Code',CVC Code
+Credit Card,month_placeholder,'MM',MM
+Credit Card,year_placeholder,'YYYY',YYYY
+Credit Card,cvc_placeholder,'XXX',XXX
+Credit Card,cc_placeholder,'XXXX XXXX XXXX XXXX',XXXX XXXX XXXX XXXX
+Credit Card,requires_action,'Your bank requires further authentication.',Your bank requires further authentication.
+Edit Profile,success_message,'Your profile has been updated.',Your profile has been updated.
+Edit Profile,success_message_student_profile,'Your changes have been saved',Your changes have been saved
+Edit Profile,error_message,'Please fix the errors below.',Please fix the errors below.
+Edit Profile,confirm_email_success_message,'You have successfully confirmed your email address.',You have successfully confirmed your email address.
+Edit Profile,email_confirmation_sent_message,'A confirmation email has been sent to',A confirmation email has been sent to
+Edit Profile,email_confirmation_instruction_message,'Once you confirm, we will update your email. Can't find your email? <a>Resend</a>',Once you confirm, we will update your email. Can't find your email? <a>Resend</a>
+Edit Profile,convert_this_profile,'Convert this profile to a myTeachable Account',Convert this profile to a myTeachable Account
+Edit Profile,convert_benefits,'to log in to hundreds of other online courses. <a href='https://support.teachable.com/hc/en-us/articles/226471247' class='gray-link'>Learn more</a>',to log in to hundreds of other online courses. <a href="https://support.teachable.com/hc/en-us/articles/226471247" class="gray-link">Learn more</a>
+Edit Profile,register_with_this_course,'Register for this school with your myTeachable Account.',Register for this school with your myTeachable Account.
+Edit Profile,edit_information_on_myteachable,'Click here to edit your profile information',Click here to edit your profile information
+Edit Profile,teachable_account_linked,'Teachable account successfully linked.',Teachable account successfully linked.
+Edit Profile,teachable_account_not_linked,'Teachable account successfully unlinked',Teachable account successfully unlinked
+Edit Profile,managed_by_teachable,'Your profile is managed by Teachable.',Your profile is managed by Teachable.
+Edit Profile,update_confirmation,'You updated your account successfully. Please check your email and follow the confirm link to confirm your new email address.',You updated your account successfully. Please check your email and follow the confirm link to confirm your new email address.
+Edit Profile,header,'Profile',Profile
+Edit Profile,linked_accounts,'Linked Accounts',Linked Accounts
+Edit Profile,link_header_teachable,'Log in with Teachable',Log in with Teachable
+Edit Profile,unlink_header_teachable,'Teachable Account',Teachable Account
+Edit Profile,login,'Login',Login
+Edit Profile,linked,'Linked',Linked
+Edit Profile,link,'Link',Link
+Edit Profile,unlink,'Unlink',Unlink
+Edit Profile,not_linked,'Not Linked',Not Linked
+Edit Profile,disconnect,'Disconnect',Disconnect
+Edit Profile,notifications,'Notifications',Notifications
+Edit Profile,view_account,'View Account',View Account
+Edit Profile,edit,'Edit',Edit
+Edit Profile,change,'Change',Change
+Edit Profile,edit_name,'Edit Name',Edit Name
+Edit Profile,edit_email,'Edit Email',Edit Email
+Edit Profile,save,'Save',Save
+Edit Profile,change_password,'Change Password',Change Password
+Edit Profile,provider_disconnected_password,'To unlink your %{provider}  account, you first need to set a password',To unlink your %{provider}  account, you first need to set a password
+Edit Profile,password,'Password',Password
+Edit Profile,new_password,'New Password',New Password
+Edit Profile,confirm_password,'Confirm Password',Confirm Password
+Edit Profile,current_password,'Current Password',Current Password
+Edit Profile,current_password_incorrect,'The password you entered is incorrect.',The password you entered is incorrect.
+Edit Profile,no_password_set,'No password is set. 3rd party used to sign up.',No password is set. 3rd party used to sign up.
+Edit Profile,google_connected,'Your Google account has been linked',Your Google account has been linked
+Edit Profile,google_unlinked,'Your Google account has been unlinked',Your Google account has been unlinked
+Edit Profile,failed_disconnect,'Failed to disconnect',Failed to disconnect
+Email,common_greeting,'Hi %{name},',Hi %{name},
+Email,common_ending,'Happy Learning!',Happy Learning!
+Email,reset_password_greeting,'Hello',Hello
+Email,reset_password_intro,'Someone has requested a link to change your password at',Someone has requested a link to change your password at
+Email,reset_password_instructions,'You can do this through the link below.',You can do this through the link below.
+Email,reset_password_link_text,'Change my Password',Change my Password
+Email,reset_password_disclaimer,'If you didn't request this, please ignore this email.',If you didn't request this, please ignore this email.
+Email,reset_password_details,'Your password won't change until you access the link above and create a new one.',Your password won't change until you access the link above and create a new one.
+Email,free_enrollment,'just enrolled in',just enrolled in
+Email,paid_enrollment,'just purchased',just purchased
+Email,unsubscribe_link_text,'Unsubscribe from Marketing Emails',Unsubscribe from Marketing Emails
+Email,paid_enrollment_for,'for',for
+Email,confirm_device_instructions_header,'New device access',New device access
+Email,confirm_device_instructions_description_user,'You’re getting this email because you attempted to log in to your account from a new device. Enter the code below to confirm this device.',You’re getting this email because you attempted to log in to your account from a new device. Enter the code below to confirm this device.
+Email,confirm_device_instructions_description_user_from_checkout,'You’re getting this email because you attempted to log in to your account from a new device. ',You’re getting this email because you attempted to log in to your account from a new device. 
+Email,confirm_device_instructions_description_teachable_account,'You’re getting this email because you attempted to log in to your myTeachable Account from a new device. Enter the code below to confirm this device.',You’re getting this email because you attempted to log in to your myTeachable Account from a new device. Enter the code below to confirm this device.
+Email,confirm_device_instructions_description_teachable_account_from_checkout,'You’re getting this email because you attempted to log in to your myTeachable Account from a new device. ',You’re getting this email because you attempted to log in to your myTeachable Account from a new device. 
+Email,confirm_device_instructions_unknown_item,'Unknown',Unknown
+Email,confirm_device_instructions_label_date,'Date',Date
+Email,confirm_device_instructions_label_location,'Location',Location
+Email,confirm_device_instructions_label_ip,'IP address',IP address
+Email,confirm_device_instructions_label_device,'Device',Device
+Email,confirm_device_instructions_access_email_description,'Please note that you must enter the code on the same device you are confirming.',Please note that you must enter the code on the same device you are confirming.
+Email,confirm_device_verification_code_timeline,'Confirmation code (valid for 24 hours):',Confirmation code (valid for 24 hours):
+Email,confirm_device_verification_code_timeline_1_hour,'Confirmation code (valid for 1 hour):',Confirmation code (valid for 1 hour):
+Email,confirm_device_instructions_link_alt_text_before_link,'You can also ',You can also 
+Email,confirm_device_instructions_link_alt_text,'click here',click here
+Email,confirm_device_instructions_link_alt_text_from_checkout,'Click here',Click here
+Email,confirm_device_instructions_link_alt_text_after_link,' to confirm your device.', to confirm your device.
+Email,comfirm_device_log_in_attempt_description,'Below are the details of the login attempt. If this was not you, please ',Below are the details of the login attempt. If this was not you, please 
+Email,confirm_device_instructions_link,'Confirm sign-in',Confirm sign-in
+Email,confirm_device_warning_link_user,'reset your account password.',reset your account password.
+Email,confirm_device_warning_link_teachable_account,'changing the password for your myTeachable Account.',changing the password for your myTeachable Account.
+Email,confirm_device_location_explanation,'*The location is approximate and determined by the IP address.',*The location is approximate and determined by the IP address.
+Email,email_confirmation_title,'Confirm your email address',Confirm your email address
+Email,email_confirmation_greeting,'Hello %{name},',Hello %{name},
+Email,email_confirmation_intro,'Glad to have you on board.',Glad to have you on board.
+Email,email_confirmation_instructions,'Please confirm your email address by clicking the button below:',Please confirm your email address by clicking the button below:
+Email,email_confirmation_link_text,'Confirm Email',Confirm Email
+Email,email_confirmation_details,'Once confirmed, you'll be able to log in with your new account.',Once confirmed, you'll be able to log in with your new account.
+Email,teachable_account_support_before_address,'If you didn't make this change, email',If you didn't make this change, email
+Email,teachable_account_support_after_address,'so we can help you secure your account.',so we can help you secure your account.
+Email,teachable_account_unlinked_notification_intro,'The linked account, Teachable, which you previously used to log in to your %{school_name} account was unlinked today. If you would like to link Teachable to your account again, you can do so from your profile.',The linked account, Teachable, which you previously used to log in to your %{school_name} account was unlinked today. If you would like to link Teachable to your account again, you can do so from your profile.
+Email,teachable_account_linked_notification_intro_before_school_link,'Teachable has been linked to your %{school_name} account today. You can now use Teachable to log in to ',Teachable has been linked to your %{school_name} account today. You can now use Teachable to log in to 
+Email,teachable_account_linked_notification_intro_after_school_link,'If you would like to unlink Teachable from your account, you can do so from your profile.',If you would like to unlink Teachable from your account, you can do so from your profile.
+Email,teachable_account_disabled_notification_intro_before_school_link,'The owner of ',The owner of 
+Email,teachable_account_disabled_notification_intro_after_school_link,'has disabled Teachable Accounts for their school.',has disabled Teachable Accounts for their school.
+Email,teachable_account_disabled_notification_instructions,'To continue to be able to access your content, set a password for your %{school_name} account using the link below.',To continue to be able to access your content, set a password for your %{school_name} account using the link below.
+Email,teachable_account_disabled_notification_link_text,'Set a password',Set a password
+Email,teachable_account_disabled_notification_support_before_address,'If you have any further questions or concerns email',If you have any further questions or concerns email
+Email,teachable_account_disabled_notification_support_after_address,'so we can help you access your account.',so we can help you access your account.
+Email,account_locked_title,'Unlock your account',Unlock your account
+Email,account_locked_greeting,'Hello',Hello
+Email,account_locked_description,'Your account has been locked due to an excessive number of unsuccessful sign in attempts.',Your account has been locked due to an excessive number of unsuccessful sign in attempts.
+Email,account_locked_link_description,'Click on the link below to unlock your account.',Click on the link below to unlock your account.
+Email,unlock_link_text,'Unlock my account',Unlock my account
+Email,deactivation_support,'For additional support, <a href='http://teachable.com/help/' target='_blank'>please submit a ticket here</a>.',For additional support, <a href="http://teachable.com/help/" target="_blank">please submit a ticket here</a>.
+Email,authentication_token_generated_title,'An authentication token has been added to your account',An authentication token has been added to your account
+Email,authentication_token_generated_greeting,'Hello',Hello
+Email,authentication_token_generated_intro,'An authentication token has been added to your account. These tokens can be used by automated system to perform actions on your behalf.',An authentication token has been added to your account. These tokens can be used by automated system to perform actions on your behalf.
+Email,authentication_token_generated_instructions,'If you didn't create this token, please change your password immediately and revoke the token from your school dashboard.',If you didn't create this token, please change your password immediately and revoke the token from your school dashboard.
+Email,authentication_token_generated_label_note,'Note',Note
+Email,authentication_token_generated_label_permissions,'Permissions',Permissions
+Email,authentication_token_generated_unknown_note,'No note',No note
+Email,authentication_token_generated_unknown_permissions,'No known permissions',No known permissions
+Email,enable_google_accounts_intro_before_address,'This email is to notify you that an administrator for',This email is to notify you that an administrator for
+Email,enable_google_accounts_intro_after_address,'has enabled Google Accounts as a login option. This means if you have a Google Account, you can link it to your %{school_name} account and use it to log in. If you have a Google Account and would like to link it to your %{school_name} account follow these steps:',has enabled Google Accounts as a login option. This means if you have a Google Account, you can link it to your %{school_name} account and use it to log in. If you have a Google Account and would like to link it to your %{school_name} account follow these steps:
+Email,enable_google_accounts_step1,'Log in the way you normally do',Log in the way you normally do
+Email,enable_google_accounts_step2,'Navigate to your profile',Navigate to your profile
+Email,enable_google_accounts_step3,'In profile, you'll see a section titled "Linked Accounts". Click on the word "link" next to the label "Log in with Google"',In profile, you'll see a section titled "Linked Accounts". Click on the word "link" next to the label "Log in with Google"
+Email,enable_google_accounts_step4,'Follow the prompts from Google in order to link your Google Account',Follow the prompts from Google in order to link your Google Account
+Email,enable_google_accounts_step5,'Once your Google Account is linked, you'll be able to use it to log in by selecting "Log in with Google" on the login screen',Once your Google Account is linked, you'll be able to use it to log in by selecting "Log in with Google" on the login screen
+Email,disable_google_accounts_intro_before_address,'This email is to notify you that an administrator for',This email is to notify you that an administrator for
+Email,disable_google_accounts_intro_after_address,'has disabled Google Accounts as a login option. You are getting this email because you have linked your Google Account and you can no longer use it to log in to %{school_name}. To make sure you don't have trouble logging in to your account, follow these steps:',has disabled Google Accounts as a login option. You are getting this email because you have linked your Google Account and you can no longer use it to log in to %{school_name}. To make sure you don't have trouble logging in to your account, follow these steps:
+Email,disable_google_accounts_step1,'Reset your password',Reset your password
+Email,disable_google_accounts_step2,'Log in using your email and password',Log in using your email and password
+Email,google_accounts_support_before_address,'If you have any further questions or concerns, please look at our',If you have any further questions or concerns, please look at our
+Email,google_accounts_help_guide,'help guide',help guide
+Email,google_accounts_support_after_address,'or contact the administrator for %{school_name}.',or contact the administrator for %{school_name}.
+Email,google_account_unlinked_notification_intro,' The linked Google account, which you previously used to log in to your %{school_name} account was unlinked today. If you made this change, then it’s all good.', The linked Google account, which you previously used to log in to your %{school_name} account was unlinked today. If you made this change, then it’s all good.
+Email,google_unlink_account_support_before_address,'If you would like to link your Google account again, you can do so from your profile. If you didn’t make this change, email ',If you would like to link your Google account again, you can do so from your profile. If you didn’t make this change, email 
+Email,google_unlink_account_support_after_address,'so we can help you secure your account.',so we can help you secure your account.
+Email Receipts,thank_you_for_enrolling_in,'Thanks for enrolling in',Thanks for enrolling in
+Email Receipts,refund_for,'Refund for',Refund for
+Email Receipts,this_course_can_be_accessed_at,'This course can be accessed at any time by going to',This course can be accessed at any time by going to
+Email Receipts,purchase_questions,'Questions about this payment?',Questions about this payment?
+Email Receipts,thank_you,'Happy learning!',Happy learning!
+Email Receipts,sign_off,'Best wishes,',Best wishes,
+Email Receipts,total,'Total',Total
+Email Receipts,discount,'Discount',Discount
+Email Receipts,tax,'Tax',Tax
+Email Receipts,list_price,'List Price',List Price
+Email Receipts,vendor,'Supplier',Supplier
+Email Receipts,vendor_tax_id,'Tax ID',Tax ID
+Email Receipts,provider,'Provider',Provider
+Email Receipts,purchase_date,'Purchase Date',Purchase Date
+Email Receipts,purchaser_tax_id,'Tax ID',Tax ID
+Email Receipts,student_login_details,'Contact Information',Contact Information
+Email Receipts,address,'Address',Address
+Email Receipts,billing_info,'Billing Info',Billing Info
+Email Receipts,shipping_address,'Delivery Address',Delivery Address
+Email Receipts,course_name,'Product Name',Product Name
+Email Receipts,product_id,'Product ID',Product ID
+Email Receipts,receipt_number,'Receipt Number',Receipt Number
+Email Receipts,payment_receipt,'Payment Receipt',Payment Receipt
+Email Receipts,utc,'UTC',UTC
+Email Receipts,transaction_date,'Transaction Date',Transaction Date
+Email Receipts,customer,'Customer',Customer
+Email Receipts,school,'School',School
+Email Receipts,price,'Price',Price
+Email Receipts,order_summary,'Order Summary',Order Summary
+Email Receipts,payment_method,'Payment Method',Payment Method
+Email Receipts,order_description_greeting,'Hi',Hi
+Email Receipts,order_description,'Thanks for your order.<br><br> A detailed summary of your purchase is below. Please note that this cannot be used as a tax invoice. Your invoice is attached in this email.<br><br>',Thanks for your order.<br><br> A detailed summary of your purchase is below. Please note that this cannot be used as a tax invoice. Your invoice is attached in this email.<br><br>
+Email Subjects,locked_account_instructions,'IMPORTANT: We’ve locked your account',IMPORTANT: We’ve locked your account
+Email Subjects,purchase_notification,'You are now enrolled in',You are now enrolled in
+Email Subjects,refund_notification,'You are receiving a refund',You are receiving a refund
+Email Subjects,failed_payment_notification,'Failed payment for',Failed payment for
+Email Subjects,payment_requires_action_notification,'Payment requires action for',Payment requires action for
+Email Subjects,subscription_cancelled,'Subscription canceled for',Subscription canceled for
+Email Subjects,reset_password_instructions,'Reset Password Instructions',Reset Password Instructions
+Email Subjects,new_comment_notification,'New comment on',New comment on
+Email Subjects,confirmation_instructions,'Confirm Your Account',Confirm Your Account
+Email Subjects,affiliate_confirmation,'You’ve been added as an affiliate',You’ve been added as an affiliate
+Email Subjects,teachable_account_unlinked_notification,'Your account settings for %{school_name} have been updated',Your account settings for %{school_name} have been updated
+Email Subjects,teachable_account_linked_notification,'Your account settings for %{school_name} have been updated',Your account settings for %{school_name} have been updated
+Email Subjects,teachable_account_disabled_notification,'Your access method for %{school_name} have been updated',Your access method for %{school_name} have been updated
+Email Subjects,receipt_for,'Receipt for',Receipt for
+Email Subjects,certificate_issued_notification,'You've been issued a certificate for completing',You've been issued a certificate for completing
+Email Subjects,confirm_device,'Login attempt on a new device',Login attempt on a new device
+Email Subjects,upcoming_payment_notification,'Upcoming Subscription Payment for',Upcoming Subscription Payment for
+Email Subjects,free_trial_reminder_students,'Your Free Trial Is Ending Soon',Your Free Trial Is Ending Soon
+Email Subjects,creator_inactive_videos_subject,'Attention: Your inactive videos are being retired',Attention: Your inactive videos are being retired
+Email Subjects,authentication_token_generated,'An authentication token has been added to your account',An authentication token has been added to your account
+Email Subjects,free_trial_receipt_students,'You've Enrolled in a Free Trial',You've Enrolled in a Free Trial
+Email Subjects,free_trial_receipt_schools,'You've Signed Up For a Free Trial',You've Signed Up For a Free Trial
+Email Subjects,limited_time_unenrollment_notification,'Access to your product has expired',Access to your product has expired
+Email Subjects,creator_custom_domain_deletion_subject,'Attention: Your custom domain has been deleted',Attention: Your custom domain has been deleted
+Email Subjects,enable_google_clients,'%{school_name} has enabled log in with Google',%{school_name} has enabled log in with Google
+Email Subjects,disable_google_clients,'%{school_name} has disabled log in with Google',%{school_name} has disabled log in with Google
+Email Subjects,google_account_unlinked_notification,'Your %{school_name} account settings have been updated',Your %{school_name} account settings have been updated
+Confirmations,redeem_your_purchase,'Redeem your copy of',Redeem your copy of
+Confirmations,confirm_account,'Confirm Your Account Information',Confirm Your Account Information
+Confirmations,redeem,'Redeem',Redeem
+Confirmations,email_body,'You can confirm your account email through the link below',You can confirm your account email through the link below
+Confirmations,link_text,'Confirm Email',Confirm Email
+Confirmations,thank_you_for_enrolling,'Thanks for enrolling',Thanks for enrolling
+Confirmations,continue_to_course,'Continue to course',Continue to course
+Confirmations,confirmed,'Your email address has been successfully confirmed.',Your email address has been successfully confirmed.
+Confirmations,send_instructions,'You will receive an email with instructions for how to confirm your email address in a few minutes.',You will receive an email with instructions for how to confirm your email address in a few minutes.
+Confirmations,update_password,'Please update your password',Please update your password
+Confirmations,post_confirmation_message_header,'Thanks for confirming!',Thanks for confirming!
+Confirmations,post_confirmation_message,'We've verified your account with the email',We've verified your account with the email
+Confirmations,post_confirmation_usage,'Use your new account to login to %{school_name}',Use your new account to login to %{school_name}
+Confirmations,post_confirmation_button,'Go to Courses',Go to Courses
+Confirmations,post_confirmation_header,'Thanks for confirming your email!',Thanks for confirming your email!
+Confirmations,post_confirmation_continue,'Continue',Continue
+Confirmations,already_confirmed_header,'Your email address has already been confirmed.',Your email address has already been confirmed.
+Confirmations,expired_token_header,'This confirmation link has expired.',This confirmation link has expired.
+Confirmations,expired_token_usage,'Please request a new link from your profile page.',Please request a new link from your profile page.
+Confirmations,email_already_in_use_header,'This email address has already been taken by a different account at %{school_name}.',This email address has already been taken by a different account at %{school_name}.
+Confirmations,email_already_in_use_usage,'Please go to your profile page and try updating your email address again.',Please go to your profile page and try updating your email address again.
+Confirmations,share_on,'Share on',Share on
+Confirmations,not_you,'Not you?',Not you?
+Confirmations,log_out,'Log out',Log out
+Failure,already_authenticated,'You are already signed in.',You are already signed in.
+Failure,inactive,'Your account is not activated yet.',Your account is not activated yet.
+Failure,invalid,'Invalid email or password.',Invalid email or password.
+Failure,locked,'You've exceeded the number of unsuccessful login attempts. Please check your email to unlock your account.',ログイン試行の回数が上限を超えました。メールを確認して、アカウントのロックを解除してください。
+Failure,last_attempt,'You have one more attempt before your account is locked.',You have one more attempt before your account is locked.
+Failure,timeout,'Your session expired. Please sign in again to continue.',Your session expired. Please sign in again to continue.
+Failure,unauthenticated,'You need to sign in or sign up before continuing.',You need to sign in or sign up before continuing.
+Failure,unconfirmed,'You have to confirm your email address before continuing.',You have to confirm your email address before continuing.
+Failure,new_device_sign_in,'We don't recognize this device. For your security, we've sent you an email with a confirmation link to confirm that you are the owner of this account. Please check your email and click the link we sent.',We don't recognize this device. For your security, we've sent you an email with a confirmation link to confirm that you are the owner of this account. Please check your email and click the link we sent.
+Password,no_token,'You can't access this page without coming from a password reset email. If you do come from a password reset email, please make sure you used the full URL provided.',You can't access this page without coming from a password reset email. If you do come from a password reset email, please make sure you used the full URL provided.
+Password,send_instructions,'We’ve sent an email with a link to reset your account password to the email address you supplied.',We’ve sent an email with a link to reset your account password to the email address you supplied.
+Password,send_paranoid_instructions,'If your email address exists in our database, you will receive a password recovery link at your email address in a few minutes.',If your email address exists in our database, you will receive a password recovery link at your email address in a few minutes.
+Password,updated,'Your password has been changed successfully. You are now signed in.',Your password has been changed successfully. You are now signed in.
+Password,updated_not_active,'Your password has been changed successfully.',Your password has been changed successfully.
+Password,not_found,'We couldn't find an account with that email address',We couldn't find an account with that email address
+Password,invalid,'Invalid password.',Invalid password.
+Registration,destroyed,'Bye! Your account has been successfully cancelled. We hope to see you again soon.',Bye! Your account has been successfully cancelled. We hope to see you again soon.
+Registration,signed_up,'Welcome! You have signed up successfully.',Welcome! You have signed up successfully.
+Registration,signed_up_but_inactive,'You have signed up successfully. However, we could not sign you in because your account is not yet activated.',You have signed up successfully. However, we could not sign you in because your account is not yet activated.
+Registration,signed_up_but_locked,'You have signed up successfully. However, we could not sign you in because your account is locked.',You have signed up successfully. However, we could not sign you in because your account is locked.
+Registration,signed_up_but_unconfirmed,'A message with a confirmation link has been sent to your email address. Please follow the link to activate your account.',A message with a confirmation link has been sent to your email address. Please follow the link to activate your account.
+Registration,update_needs_confirmation,'You updated your account successfully, but we need to verify your new email address. Please check your email and follow the confirm link to confirm your new email address.',You updated your account successfully, but we need to verify your new email address. Please check your email and follow the confirm link to confirm your new email address.
+Registration,updated,'Your account has been updated successfully.',Your account has been updated successfully.
+Registration,allow_marketing_emails,'I agree to receive instructional and promotional emails. (optional)',I agree to receive instructional and promotional emails. (optional)
+Registration,no_enrollments,'This school is not open for enrollment.',This school is not open for enrollment.
+Card Decline Reasons,approve_with_id,'The payment cannot be authorized.',支払いを承認できません。
+Card Decline Reasons,card_not_supported,'This card does not support this type of purchase. Please check with your card provider.',サポートされていないカードです。
+Card Decline Reasons,card_velocity_exceeded,'This card has exceeded its balance or credit limit. Please try another card.',カードで利用可能な残高またはクレジット限度を超えました。
+Card Decline Reasons,currency_not_supported,'This card does not support the specified currency. Please try another card.',カードは指定された通貨をサポートしていません。
+Card Decline Reasons,duplicate_transaction,'An identical transaction was submitted very recently. Please try again later, or try another card.',ごく最近、同じ内容の取引が行われました。後日、再度お試しいただくか、別のカードをお試しください。
+Card Decline Reasons,expired_card,'This card has expired. Please try again with a different card.',This card has expired. Please try again with a different card.
+Card Decline Reasons,fraudulent,'Card declined. Please contact your card provider.',Stripeが不正である疑いがあると判断したため、支払いは拒否されました。
+Card Decline Reasons,incorrect_number,'Invalid card information. Please try again.',Invalid card information. Please try again.
+Card Decline Reasons,incorrect_cvc,'Invalid card information. Please try again.',Invalid card information. Please try again.
+Card Decline Reasons,incorrect_pin,'Invalid card information. Please try again.',入力されたPINが正しくありません。
+Card Decline Reasons,incorrect_zip,'Invalid card information. Please try again.',Invalid card information. Please try again.
+Card Decline Reasons,insufficient_funds,'The card has insufficient funds.',購入に必要な残高が不足しています。
+Card Decline Reasons,invalid_account,'This card, or connected account, is invalid.',カード、またはカードを設定しているアカウントが無効です。
+Card Decline Reasons,invalid_amount,'Invalid payment amount.',支払金額が無効か、限度額を超えています。
+Card Decline Reasons,invalid_cvc,'Invalid card information. Please try again.',Invalid card information. Please try again.
+Card Decline Reasons,invalid_expiry_year,'Invalid card information. Please try again.',Invalid card information. Please try again.
+Card Decline Reasons,invalid_number,'Invalid card information. Please try again.',Invalid card information. Please try again.
+Card Decline Reasons,invalid_pin,'Invalid card information. Please try again.',入力されたPINが正しくありません。
+Card Decline Reasons,issuer_not_available,'Unable to reach the card provider. Please contact your card provider if the issue persists.',カード会社へ連絡がつかなったため、支払いを承認できませんでした。
+Card Decline Reasons,lost_card,'Card declined. Please contact your card provider.',カードが紛失したと報告されたため、支払いが拒否されました。
+Card Decline Reasons,merchant_blacklist,'This card has been blocked by the seller.',Stripeユーザーのブラックリストと一致するため、支払いが拒否されました。
+Card Decline Reasons,new_account_information_available,'This card, or connected account, is invalid.',カード、またはカードが接続されているアカウントが無効です。
+Card Decline Reasons,not_permitted,'The payment is not permitted.',支払いは許可されていません。
+Card Decline Reasons,pickup_card,'Card declined. Please contact your card provider.',この支払いにこのカードを使用することはできません（紛失または盗難にあったと報告されている可能性があります）。
+Card Decline Reasons,pin_try_exceeded,'The allowed number of PIN attempts has been reached.',許可されたPINの試行回数に達しました。
+Card Decline Reasons,processing_error,'An error occurred while processing this card.',An error occurred while processing this card.
+Card Decline Reasons,reenter_transaction,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,restricted_card,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,testmode_decline,'Stripe test cards cannot be used for purchases.',ストライプテストカードはお買い物にはご利用いただけません。
+Card Decline Reasons,withdrawal_count_limit_exceeded,'This card has reached its credit limit.',このカードは利用限度額に達しています。
+Card Decline Reasons,stolen_card,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,call_issuer,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,do_not_honor,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,do_not_try_again,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,generic_decline,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,no_action_taken,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,revocation_of_all_authorizations,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,revocation_of_authorization,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,security_violation,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,service_not_allowed,'The card has been declined for an unknown reason.',原因不明の理由により、カード会社が支払いを処理できませんでした。
+Card Decline Reasons,stop_payment_order,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,transaction_not_allowed,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Card Decline Reasons,try_again_later,'Card declined. Please contact your card provider.',カードが使用できません。カード会社にお問い合わせください。
+Sessions,signed_in,'Signed in successfully.',サインインしました。
+Sessions,signed_out,'Signed out successfully.',ログアウトしました。
+Sessions,already_signed_out,'Signed out successfully.',ログアウトしました。
+Sessions,locked,'You've exceeded the number of unsuccessful login attempts. Please check your email to unlock your account.',You've exceeded the number of unsuccessful login attempts. Please check your email to unlock your account.
+Sessions,unrecognized_device_title,'New device detected',このデバイスを認識できません。
+Sessions,new_device_sign_in,'To verify it’s you, enter the code from the email we’ve just sent to you.',To verify it’s you, enter the code from the email we’ve just sent to you.
+Sessions,confirm_device_instructions_notice,'Confirm this device by entering the code in the email we sent you.',送信されたメールのコードを入力して、このデバイスを確認します。
+Sessions,resend_device_confirmation_email_link,'Resend Code',もう一度送信するにはここをクリックしてください。
+Sessions,confirmation_code_label,'Confirmation code',確認コード
+Sessions,submit_confirmation_code,'Next',Next
+Quiz,quiz,'Quiz',Quiz
+Quiz,back,'Back',戻る
+Quiz,check,'Check',採点する
+Quiz,continue,'Continue',Continue
+Quiz,you_scored,'You scored',スコア
+Quiz,retake_quiz,'Retake Quiz',クイズの再挑戦
+Quiz,select_an_answer,'Select an answer.',答えを選ぶ
+Quiz,retake_retry,'You need a score of at least %{minimumQuizScore}% to continue - you may retake this quiz %{retakes} more time(s).',続行するには最低 %{minimumQuizScore}% のスコアが必要です - このクイズは %{retakes} 回以上再受験できます。
+Quiz,retake_request,'You need a score of at least %{minimumQuizScore}% to continue - a request has been sent to the school owner to reset your score. You will be notified if the school owner allows you to retake this quiz.',続行するには最低 %{minimumQuizScore}% のスコアが必要です - あなたのスコアをリセットするリクエストが講座のオーナーへ送信されました。講座のオーナーがあなたにこのクイズの再受験を許可した場合、あなたへ通知されます。
+Blog,about,'ABOUT',ABOUT
+Blog,read_more,'READ MORE',もっと読む
+Contact,success_message,'Your message has been successfully sent to the school owner(s).',Your message has been successfully sent to the school owner(s).
+Contact,failure_message,'Unable to send message, please try again.',メッセージを送信できませんでした、もう一度試してください。
+Contact,unconfirmed_email_message,'You need to confirm your email address before using this functionality.',この機能を利用するには、メールアドレスの確認が必要です。
