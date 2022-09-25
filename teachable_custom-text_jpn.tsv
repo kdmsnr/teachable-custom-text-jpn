@@ -840,7 +840,7 @@ Confirmations	email_already_in_use_header	This email address has already been ta
 Confirmations	email_already_in_use_usage	Please go to your profile page and try updating your email address again.	Please go to your profile page and try updating your email address again.
 Confirmations	share_on	Share on	Share on
 Confirmations	not_you	Not you?	Not you?
-Confirmations	log_out	Log out	Log out
+Confirmations	log_out	Log out	ログアウト
 Failure	already_authenticated	You are already signed in.	You are already signed in.
 Failure	inactive	Your account is not activated yet.	Your account is not activated yet.
 Failure	invalid	Invalid email or password.	Invalid email or password.
