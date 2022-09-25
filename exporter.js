@@ -14,7 +14,7 @@ elements.forEach(e => {
     if (en == null) {en = ""};
     if (ja == null) {ja = ""};
 
-    let line = category + "," + key + ",'" + en.textContent + "'," + ja.textContent + "\n";
+    let line = category + "\t" + key + "\t" + en.textContent + "\t" + ja.textContent + "\n";
     console.log(line);
     output += line;
   });
