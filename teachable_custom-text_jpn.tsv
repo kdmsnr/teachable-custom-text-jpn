@@ -222,7 +222,7 @@ Courses	author_filter	Author:	講師:
 Courses	all_filter	All	すべて
 Courses	no_products	This course is closed for enrollment.	このバンドルは購入することはできません。
 Courses	enroll	Enroll	【受講する】
-Courses	search_button	<i class='fa fa-search' title='Search'></i>	<i class='fa fa-search' title='Search'></i>
+Courses	search_button	<i class='fa fa-search' title='Search'></i>	<i class="fa fa-search"></i>
 Courses	available_in	Available in	公開まで、あと
 Courses	after_you_enroll	after you enroll	受講後
 Courses	days	days	日
@@ -402,8 +402,8 @@ Accounts	email_placeholder	name@example.com	name@example.com
 Accounts	password	Password	パスワード
 Accounts	new_password_placeholder	password	パスワード
 Accounts	profile_image	Profile Image	Profile Image
-Accounts	profile_image_change	We use <a href='http://en.gravatar.com/' target='_blank'>Gravatar.com</a> for our profile images. To set or change yours, <a href='http://en.gravatar.com/' target='_blank'>create a Gravatar account</a>.<br><br>	We use <a href='http://en.gravatar.com/' target='_blank'>Gravatar.com</a> for our profile images. To set or change yours, <a href='http://en.gravatar.com/' target='_blank'>create a Gravatar account</a>.<br><br>
-Accounts	new_profile_image_change	We use <a href='http://en.gravatar.com/' target='_blank'>Gravatar.com</a> to set your profile images. To change your profile image, <a href='http://en.gravatar.com/' target='_blank'>create a Gravatar account</a>.<br><br>	We use <a href='http://en.gravatar.com/' target='_blank'>Gravatar.com</a> to set your profile images. To change your profile image, <a href='http://en.gravatar.com/' target='_blank'>create a Gravatar account</a>.<br><br>
+Accounts	profile_image_change	We use <a href='http://en.gravatar.com/' target='_blank'>Gravatar.com</a> for our profile images. To set or change yours, <a href='http://en.gravatar.com/' target='_blank'>create a Gravatar account</a>.<br><br>	We use <a href="http://en.gravatar.com/" target="_blank">Gravatar.com</a> for our profile images. To set or change yours, <a href="http://en.gravatar.com/" target="_blank">create a Gravatar account</a>.<br><br>
+Accounts	new_profile_image_change	We use <a href='http://en.gravatar.com/' target='_blank'>Gravatar.com</a> to set your profile images. To change your profile image, <a href='http://en.gravatar.com/' target='_blank'>create a Gravatar account</a>.<br><br>	We use <a href="http://en.gravatar.com/" target="_blank">Gravatar.com</a> to set your profile images. To change your profile image, <a href="http://en.gravatar.com/" target="_blank">create a Gravatar account</a>.<br><br>
 Accounts	enter_current_password	To save changes, please enter your current password	To save changes, please enter your current password
 Accounts	new_password	New password	New password
 Accounts	confirm_password	Confirm Password	Confirm Password
@@ -870,7 +870,7 @@ Card Decline Reasons	approve_with_id	The payment cannot be authorized.	支払い
 Card Decline Reasons	card_not_supported	This card does not support this type of purchase. Please check with your card provider.	サポートされていないカードです。
 Card Decline Reasons	card_velocity_exceeded	This card has exceeded its balance or credit limit. Please try another card.	カードで利用可能な残高またはクレジット限度を超えました。
 Card Decline Reasons	currency_not_supported	This card does not support the specified currency. Please try another card.	カードは指定された通貨をサポートしていません。
-Card Decline Reasons	duplicate_transaction	An identical transaction was submitted very recently. Please try again later, or try another card.	 or try another card.",ごく最近、同じ内容の取引が行われました。後日、再度お試しいただくか、別のカードをお試しください。
+Card Decline Reasons	duplicate_transaction	An identical transaction was submitted very recently. Please try again later, or try another card.	 ごく最近、同じ内容の取引が行われました。後日、再度お試しいただくか、別のカードをお試しください。
 Card Decline Reasons	expired_card	This card has expired. Please try again with a different card.	This card has expired. Please try again with a different card.
 Card Decline Reasons	fraudulent	Card declined. Please contact your card provider.	Stripeが不正である疑いがあると判断したため、支払いは拒否されました。
 Card Decline Reasons	incorrect_number	Invalid card information. Please try again.	Invalid card information. Please try again.
@@ -878,7 +878,7 @@ Card Decline Reasons	incorrect_cvc	Invalid card information. Please try again.	I
 Card Decline Reasons	incorrect_pin	Invalid card information. Please try again.	入力されたPINが正しくありません。
 Card Decline Reasons	incorrect_zip	Invalid card information. Please try again.	Invalid card information. Please try again.
 Card Decline Reasons	insufficient_funds	The card has insufficient funds.	購入に必要な残高が不足しています。
-Card Decline Reasons	invalid_account	This card, or connected account, is invalid.	 or connected account, is invalid.",カード、またはカードを設定しているアカウントが無効です。
+Card Decline Reasons	invalid_account	This card, or connected account, is invalid.	カード、またはカードを設定しているアカウントが無効です。
 Card Decline Reasons	invalid_amount	Invalid payment amount.	支払金額が無効か、限度額を超えています。
 Card Decline Reasons	invalid_cvc	Invalid card information. Please try again.	Invalid card information. Please try again.
 Card Decline Reasons	invalid_expiry_year	Invalid card information. Please try again.	Invalid card information. Please try again.
@@ -887,7 +887,7 @@ Card Decline Reasons	invalid_pin	Invalid card information. Please try again.	入
 Card Decline Reasons	issuer_not_available	Unable to reach the card provider. Please contact your card provider if the issue persists.	カード会社へ連絡がつかなったため、支払いを承認できませんでした。
 Card Decline Reasons	lost_card	Card declined. Please contact your card provider.	カードが紛失したと報告されたため、支払いが拒否されました。
 Card Decline Reasons	merchant_blacklist	This card has been blocked by the seller.	Stripeユーザーのブラックリストと一致するため、支払いが拒否されました。
-Card Decline Reasons	new_account_information_available	This card, or connected account, is invalid.	 or connected account, is invalid.",カード、またはカードが接続されているアカウントが無効です。
+Card Decline Reasons	new_account_information_available	This card, or connected account, is invalid.	 カード、またはカードが接続されているアカウントが無効です。
 Card Decline Reasons	not_permitted	The payment is not permitted.	支払いは許可されていません。
 Card Decline Reasons	pickup_card	Card declined. Please contact your card provider.	この支払いにこのカードを使用することはできません（紛失または盗難にあったと報告されている可能性があります）。
 Card Decline Reasons	pin_try_exceeded	The allowed number of PIN attempts has been reached.	許可されたPINの試行回数に達しました。
